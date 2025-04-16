@@ -1,5 +1,7 @@
 # Dataset Generation and Splitting
 
+Documentation on dataset structure- coming soon!
+
 ## Dataset Generation
 
 To generate evaluation examples from user object arrangements, run the following script from the `data_permutation` folder:
