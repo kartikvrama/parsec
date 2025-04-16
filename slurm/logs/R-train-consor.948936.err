@@ -1,162 +1,0 @@
-wandb: Currently logged in as: rkartik. Use `wandb login --relogin` to force relogin
-wandb: wandb version 0.17.9 is available!  To upgrade, please run:
-wandb:  $ pip install wandb --upgrade
-wandb: Tracking run with wandb version 0.16.2
-wandb: Run data is saved locally in /coc/flash5/kvr6/dev/robo_declutter/wandb/run-20240910_130103-UENVCAT-2024-09-10-fold_1-81xmahnt
-wandb: Run `wandb offline` to turn off syncing.
-wandb: Syncing run UENVCAT-2024-09-10-fold_1-81xmahnt
-wandb:  View project at https://wandb.ai/rkartik/consor
-wandb:  View run at https://wandb.ai/rkartik/consor/runs/UENVCAT-2024-09-10-fold_1-81xmahnt
-GPU available: True (cuda), used: True
-TPU available: False, using: 0 TPU cores
-IPU available: False, using: 0 IPUs
-HPU available: False, using: 0 HPUs
-You are using a CUDA device ('NVIDIA A40') that has Tensor Cores. To properly utilize them, you should set `torch.set_float32_matmul_precision('medium' | 'high')` which will trade-off precision for performance. For more details, read https://pytorch.org/docs/stable/generated/torch.set_float32_matmul_precision.html#torch.set_float32_matmul_precision
-/coc/flash5/kvr6/anaconda3/envs/declutter/lib/python3.9/site-packages/pytorch_lightning/loggers/wandb.py:389: There is a wandb run already in progress and newly created instances of `WandbLogger` will reuse this run. If this is not desired, call `wandb.finish()` before instantiating `WandbLogger`.
-LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
-SLURM auto-requeueing enabled. Setting signal handlers.
-/coc/flash5/kvr6/anaconda3/envs/declutter/lib/python3.9/site-packages/pytorch_lightning/trainer/connectors/data_connector.py:441: The 'val_dataloader' does not have many workers which may be a bottleneck. Consider increasing the value of the `num_workers` argument` to `num_workers=15` in the `DataLoader` to improve performance.
-/coc/flash5/kvr6/anaconda3/envs/declutter/lib/python3.9/site-packages/torch/nn/modules/transformer.py:380: UserWarning: nested_from_padded CUDA kernels only support fp32/fp16; falling back to slower generic kernel (Triggered internally at /opt/conda/conda-bld/pytorch_1702400441250/work/aten/src/ATen/native/nested/cuda/NestedTensorTransformerFunctions.cpp:52.)
-  output = torch._nested_tensor_from_mask(output, src_key_padding_mask.logical_not(), mask_check=False)
-/coc/flash5/kvr6/anaconda3/envs/declutter/lib/python3.9/site-packages/torch/nn/modules/transformer.py:380: UserWarning: The PyTorch API of nested tensors is in prototype stage and will change in the near future. (Triggered internally at /opt/conda/conda-bld/pytorch_1702400441250/work/aten/src/ATen/NestedTensorImpl.cpp:178.)
-  output = torch._nested_tensor_from_mask(output, src_key_padding_mask.logical_not(), mask_check=False)
-LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
-
-  | Name             | Type                    | Params
--------------------------------------------------------------
-0 | encoder_layer    | TransformerEncoderLayer | 1.0 M 
-1 | encoder          | TransformerEncoder      | 3.1 M 
-2 | dropout_linear   | Dropout                 | 0     
-3 | activation       | ReLU                    | 0     
-4 | linear           | Linear                  | 28.7 K
-5 | contrastive_loss | TripletMarginLoss       | 0     
--------------------------------------------------------------
-4.2 M     Trainable params
-0         Non-trainable params
-4.2 M     Total params
-16.699    Total estimated model params size (MB)
-SLURM auto-requeueing enabled. Setting signal handlers.
-/coc/flash5/kvr6/anaconda3/envs/declutter/lib/python3.9/site-packages/pytorch_lightning/trainer/connectors/data_connector.py:441: The 'train_dataloader' does not have many workers which may be a bottleneck. Consider increasing the value of the `num_workers` argument` to `num_workers=15` in the `DataLoader` to improve performance.
-`Trainer.fit` stopped: `max_epochs=1500` reached.
-wandb: - 0.015 MB of 0.015 MB uploadedwandb: \ 0.015 MB of 0.015 MB uploadedwandb: | 0.015 MB of 0.015 MB uploadedwandb: / 0.015 MB of 0.015 MB uploadedwandb: - 0.021 MB of 0.114 MB uploadedwandb: \ 0.021 MB of 0.114 MB uploadedwandb: | 0.117 MB of 0.117 MB uploadedwandb:                                                                                
-wandb: 
-wandb: Run summary:
-wandb:          edit_distance 3.23529
-wandb:                  epoch 1499
-wandb:                    igo 2.70588
-wandb:                    ipc 2.13235
-wandb:                lr-Adam 0.0001
-wandb: non_zero_edit_distance 3.23529
-wandb:           success_rate 0.17647
-wandb:       train_loss_epoch 0.53413
-wandb:        train_loss_step 0.74705
-wandb:    trainer/global_step 209999
-wandb: 
-wandb:  View run UENVCAT-2024-09-10-fold_1-81xmahnt at: https://wandb.ai/rkartik/consor/runs/UENVCAT-2024-09-10-fold_1-81xmahnt
-wandb:  View job at https://wandb.ai/rkartik/consor/jobs/QXJ0aWZhY3RDb2xsZWN0aW9uOjI1NzgxOTU3Mw==/version_details/v12
-wandb: Synced 6 W&B file(s), 0 media file(s), 2 artifact file(s) and 0 other file(s)
-wandb: Find logs at: ./wandb/run-20240910_130103-UENVCAT-2024-09-10-fold_1-81xmahnt/logs
-wandb: - Waiting for wandb.init()...wandb: \ Waiting for wandb.init()...wandb: wandb version 0.17.9 is available!  To upgrade, please run:
-wandb:  $ pip install wandb --upgrade
-wandb: Tracking run with wandb version 0.16.2
-wandb: Run data is saved locally in /coc/flash5/kvr6/dev/robo_declutter/wandb/run-20240910_142805-UENVCAT-2024-09-10-fold_2-nf9mj07b
-wandb: Run `wandb offline` to turn off syncing.
-wandb: Syncing run UENVCAT-2024-09-10-fold_2-nf9mj07b
-wandb:  View project at https://wandb.ai/rkartik/consor
-wandb:  View run at https://wandb.ai/rkartik/consor/runs/UENVCAT-2024-09-10-fold_2-nf9mj07b
-GPU available: True (cuda), used: True
-TPU available: False, using: 0 TPU cores
-IPU available: False, using: 0 IPUs
-HPU available: False, using: 0 HPUs
-/coc/flash5/kvr6/anaconda3/envs/declutter/lib/python3.9/site-packages/pytorch_lightning/loggers/wandb.py:389: There is a wandb run already in progress and newly created instances of `WandbLogger` will reuse this run. If this is not desired, call `wandb.finish()` before instantiating `WandbLogger`.
-LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
-SLURM auto-requeueing enabled. Setting signal handlers.
-/coc/flash5/kvr6/anaconda3/envs/declutter/lib/python3.9/site-packages/pytorch_lightning/trainer/connectors/data_connector.py:441: The 'val_dataloader' does not have many workers which may be a bottleneck. Consider increasing the value of the `num_workers` argument` to `num_workers=15` in the `DataLoader` to improve performance.
-LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
-
-  | Name             | Type                    | Params
--------------------------------------------------------------
-0 | encoder_layer    | TransformerEncoderLayer | 1.0 M 
-1 | encoder          | TransformerEncoder      | 3.1 M 
-2 | dropout_linear   | Dropout                 | 0     
-3 | activation       | ReLU                    | 0     
-4 | linear           | Linear                  | 28.7 K
-5 | contrastive_loss | TripletMarginLoss       | 0     
--------------------------------------------------------------
-4.2 M     Trainable params
-0         Non-trainable params
-4.2 M     Total params
-16.699    Total estimated model params size (MB)
-SLURM auto-requeueing enabled. Setting signal handlers.
-/coc/flash5/kvr6/anaconda3/envs/declutter/lib/python3.9/site-packages/pytorch_lightning/trainer/connectors/data_connector.py:441: The 'train_dataloader' does not have many workers which may be a bottleneck. Consider increasing the value of the `num_workers` argument` to `num_workers=15` in the `DataLoader` to improve performance.
-`Trainer.fit` stopped: `max_epochs=1500` reached.
-wandb: - 0.015 MB of 0.015 MB uploadedwandb: \ 0.015 MB of 0.015 MB uploadedwandb: | 0.015 MB of 0.142 MB uploadedwandb: / 0.015 MB of 0.142 MB uploadedwandb: - 0.143 MB of 0.143 MB uploadedwandb:                                                                                
-wandb: 
-wandb: Run summary:
-wandb:          edit_distance 6.0
-wandb:                  epoch 1499
-wandb:                    igo 5.31579
-wandb:                    ipc 4.56842
-wandb:                lr-Adam 0.0001
-wandb: non_zero_edit_distance 6.0
-wandb:           success_rate 0.02105
-wandb:       train_loss_epoch 0.58446
-wandb:        train_loss_step 0.67264
-wandb:    trainer/global_step 253499
-wandb: 
-wandb:  View run UENVCAT-2024-09-10-fold_2-nf9mj07b at: https://wandb.ai/rkartik/consor/runs/UENVCAT-2024-09-10-fold_2-nf9mj07b
-wandb:  View job at https://wandb.ai/rkartik/consor/jobs/QXJ0aWZhY3RDb2xsZWN0aW9uOjI1NzgxOTU3Mw==/version_details/v12
-wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
-wandb: Find logs at: ./wandb/run-20240910_142805-UENVCAT-2024-09-10-fold_2-nf9mj07b/logs
-wandb: - Waiting for wandb.init()...wandb: \ Waiting for wandb.init()...wandb: wandb version 0.17.9 is available!  To upgrade, please run:
-wandb:  $ pip install wandb --upgrade
-wandb: Tracking run with wandb version 0.16.2
-wandb: Run data is saved locally in /coc/flash5/kvr6/dev/robo_declutter/wandb/run-20240910_161318-UENVCAT-2024-09-10-fold_3-nnprvaiv
-wandb: Run `wandb offline` to turn off syncing.
-wandb: Syncing run UENVCAT-2024-09-10-fold_3-nnprvaiv
-wandb:  View project at https://wandb.ai/rkartik/consor
-wandb:  View run at https://wandb.ai/rkartik/consor/runs/UENVCAT-2024-09-10-fold_3-nnprvaiv
-GPU available: True (cuda), used: True
-TPU available: False, using: 0 TPU cores
-IPU available: False, using: 0 IPUs
-HPU available: False, using: 0 HPUs
-/coc/flash5/kvr6/anaconda3/envs/declutter/lib/python3.9/site-packages/pytorch_lightning/loggers/wandb.py:389: There is a wandb run already in progress and newly created instances of `WandbLogger` will reuse this run. If this is not desired, call `wandb.finish()` before instantiating `WandbLogger`.
-LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
-SLURM auto-requeueing enabled. Setting signal handlers.
-/coc/flash5/kvr6/anaconda3/envs/declutter/lib/python3.9/site-packages/pytorch_lightning/trainer/connectors/data_connector.py:441: The 'val_dataloader' does not have many workers which may be a bottleneck. Consider increasing the value of the `num_workers` argument` to `num_workers=15` in the `DataLoader` to improve performance.
-LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
-
-  | Name             | Type                    | Params
--------------------------------------------------------------
-0 | encoder_layer    | TransformerEncoderLayer | 1.0 M 
-1 | encoder          | TransformerEncoder      | 3.1 M 
-2 | dropout_linear   | Dropout                 | 0     
-3 | activation       | ReLU                    | 0     
-4 | linear           | Linear                  | 28.7 K
-5 | contrastive_loss | TripletMarginLoss       | 0     
--------------------------------------------------------------
-4.2 M     Trainable params
-0         Non-trainable params
-4.2 M     Total params
-16.699    Total estimated model params size (MB)
-SLURM auto-requeueing enabled. Setting signal handlers.
-/coc/flash5/kvr6/anaconda3/envs/declutter/lib/python3.9/site-packages/pytorch_lightning/trainer/connectors/data_connector.py:441: The 'train_dataloader' does not have many workers which may be a bottleneck. Consider increasing the value of the `num_workers` argument` to `num_workers=15` in the `DataLoader` to improve performance.
-`Trainer.fit` stopped: `max_epochs=1500` reached.
-wandb: - 0.015 MB of 0.015 MB uploadedwandb: \ 0.015 MB of 0.015 MB uploadedwandb: | 0.142 MB of 0.142 MB uploadedwandb:                                                                                
-wandb: 
-wandb: Run summary:
-wandb:          edit_distance 6.31579
-wandb:                  epoch 1499
-wandb:                    igo 5.37895
-wandb:                    ipc 4.6
-wandb:                lr-Adam 0.0001
-wandb: non_zero_edit_distance 6.31579
-wandb:           success_rate 0.0
-wandb:       train_loss_epoch 0.57636
-wandb:        train_loss_step 0.51664
-wandb:    trainer/global_step 164999
-wandb: 
-wandb:  View run UENVCAT-2024-09-10-fold_3-nnprvaiv at: https://wandb.ai/rkartik/consor/runs/UENVCAT-2024-09-10-fold_3-nnprvaiv
-wandb:  View job at https://wandb.ai/rkartik/consor/jobs/QXJ0aWZhY3RDb2xsZWN0aW9uOjI1NzgxOTU3Mw==/version_details/v12
-wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
-wandb: Find logs at: ./wandb/run-20240910_161318-UENVCAT-2024-09-10-fold_3-nnprvaiv/logs

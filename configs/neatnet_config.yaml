@@ -1,0 +1,17 @@
+# # DEFAULT EVAL PARAMETERS
+# Model params.
+encoder_h_dim: 64
+graph_dim: 64
+pos_dim: 2
+predictor_h_dim: 32
+relu_leak: 0.2
+semantic_dim: 384
+user_dim: 2
+# Train params.
+init_lr: 0.001
+num_epochs: 5000
+sch_cooldown: 100
+sch_factor: 0.5
+sch_patience: 200
+vae_beta: 0.01
+noise_scale: 0.02

@@ -1,0 +1,746 @@
+{
+    "unplaced_surface": {
+        "environment": "not_placed",
+        "surface_type": "not_placed",
+        "position": "None",
+        "text": "None"
+    },
+    "kitchen-cabinet-3X1-A": {
+        "environment": "kitchen",
+        "surface_type": "closed_shelf",
+        "position": [
+            2,
+            0
+        ],
+        "text": "cabinet top shelf"
+    },
+    "kitchen-cabinet-3X1-B": {
+        "environment": "kitchen",
+        "surface_type": "closed_shelf",
+        "position": [
+            1,
+            0
+        ],
+        "text": "cabinet middle shelf"
+    },
+    "kitchen-cabinet-3X1-C": {
+        "environment": "kitchen",
+        "surface_type": "closed_shelf",
+        "position": [
+            0,
+            0
+        ],
+        "text": "cabinet bottom shelf"
+    },
+    "kitchen-cabinet-2X2-left-A": {
+        "environment": "kitchen",
+        "surface_type": "closed_shelf",
+        "position": [
+            1,
+            0
+        ],
+        "text": "cabinet top-left shelf"
+    },
+    "kitchen-cabinet-2X2-left-B": {
+        "environment": "kitchen",
+        "surface_type": "closed_shelf",
+        "position": [
+            0,
+            0
+        ],
+        "text": "cabinet bottom-left shelf"
+    },
+    "kitchen-cabinet-2X2-right-A": {
+        "environment": "kitchen",
+        "surface_type": "closed_shelf",
+        "position": [
+            1,
+            1
+        ],
+        "text": "cabinet top-right shelf"
+    },
+    "kitchen-cabinet-2X2-right-B": {
+        "environment": "kitchen",
+        "surface_type": "closed_shelf",
+        "position": [
+            0,
+            1
+        ],
+        "text": "cabinet bottom-right shelf"
+    },
+    "kitchen-cabinet-3X2-left-A": {
+        "environment": "kitchen",
+        "surface_type": "closed_shelf",
+        "position": [
+            2,
+            0
+        ],
+        "text": "cabinet top-left shelf"
+    },
+    "kitchen-cabinet-3X2-left-B": {
+        "environment": "kitchen",
+        "surface_type": "closed_shelf",
+        "position": [
+            1,
+            0
+        ],
+        "text": "cabinet middle-left shelf"
+    },
+    "kitchen-cabinet-3X2-left-C": {
+        "environment": "kitchen",
+        "surface_type": "closed_shelf",
+        "position": [
+            0,
+            0
+        ],
+        "text": "cabinet bottom-left shelf"
+    },
+    "kitchen-cabinet-3X2-right-A": {
+        "environment": "kitchen",
+        "surface_type": "closed_shelf",
+        "position": [
+            2,
+            1
+        ],
+        "text": "cabinet top-right shelf"
+    },
+    "kitchen-cabinet-3X2-right-B": {
+        "environment": "kitchen",
+        "surface_type": "closed_shelf",
+        "position": [
+            1,
+            1
+        ],
+        "text": "cabinet middle-right shelf"
+    },
+    "kitchen-cabinet-3X2-right-C": {
+        "environment": "kitchen",
+        "surface_type": "closed_shelf",
+        "position": [
+            0,
+            1
+        ],
+        "text": "cabinet bottom-right shelf"
+    },
+    "bathroom-cabinet-2hs-1os-hidden-A": {
+        "environment": "bathroom",
+        "surface_type": "closed_shelf",
+        "position": [
+            2,
+            0
+        ],
+        "text": "cabinet top shelf"
+    },
+    "bathroom-cabinet-2hs-1os-hidden-B": {
+        "environment": "bathroom",
+        "surface_type": "closed_shelf",
+        "position": [
+            1,
+            0
+        ],
+        "text": "cabinet middle shelf"
+    },
+    "bathroom-cabinet-2hs-1os-open-A": {
+        "environment": "bathroom",
+        "surface_type": "open_shelf",
+        "position": [
+            0,
+            0
+        ],
+        "text": "cabinet bottom shelf (open)"
+    },
+    "bathroom-cabinet-4hs-0os-hidden-A": {
+        "environment": "bathroom",
+        "surface_type": "closed_shelf",
+        "position": [
+            3,
+            0
+        ],
+        "text": "cabinet shelf 1 (top)"
+    },
+    "bathroom-cabinet-4hs-0os-hidden-B": {
+        "environment": "bathroom",
+        "surface_type": "closed_shelf",
+        "position": [
+            2,
+            0
+        ],
+        "text": "cabinet shelf 2"
+    },
+    "bathroom-cabinet-4hs-0os-hidden-C": {
+        "environment": "bathroom",
+        "surface_type": "closed_shelf",
+        "position": [
+            1,
+            0
+        ],
+        "text": "cabinet shelf 3"
+    },
+    "bathroom-cabinet-4hs-0os-hidden-D": {
+        "environment": "bathroom",
+        "surface_type": "closed_shelf",
+        "position": [
+            0,
+            0
+        ],
+        "text": "cabinet shelf 4 (bottom)"
+    },
+    "bathroom-cabinet-0hs-5os-open-left-A": {
+        "environment": "bathroom",
+        "surface_type": "open_shelf",
+        "position": [
+            2,
+            0
+        ],
+        "text": "cabinet top-left shelf (open)"
+    },
+    "bathroom-cabinet-0hs-5os-open-left-B": {
+        "environment": "bathroom",
+        "surface_type": "open_shelf",
+        "position": [
+            1,
+            0
+        ],
+        "text": "cabinet middle-left shelf (open)"
+    },
+    "bathroom-cabinet-0hs-5os-open-right-A": {
+        "environment": "bathroom",
+        "surface_type": "open_shelf",
+        "position": [
+            2,
+            2
+        ],
+        "text": "cabinet top-right shelf (open)"
+    },
+    "bathroom-cabinet-0hs-5os-open-right-B": {
+        "environment": "bathroom",
+        "surface_type": "open_shelf",
+        "position": [
+            1,
+            2
+        ],
+        "text": "cabinet middle-right shelf (open)"
+    },
+    "bathroom-cabinet-0hs-5os-open-bottom-C": {
+        "environment": "bathroom",
+        "surface_type": "open_shelf",
+        "position": [
+            0,
+            1
+        ],
+        "text": "cabinet bottom shelf (open)"
+    },
+    "fridge-4cs-0dr-3ds-shelf-A": {
+        "environment": "fridge",
+        "surface_type": "closed_shelf",
+        "position": [
+            3,
+            0
+        ],
+        "text": "fridge shelf 1 (top)"
+    },
+    "fridge-4cs-0dr-3ds-shelf-B": {
+        "environment": "fridge",
+        "surface_type": "closed_shelf",
+        "position": [
+            2,
+            0
+        ],
+        "text": "fridge shelf 2"
+    },
+    "fridge-4cs-0dr-3ds-shelf-C": {
+        "environment": "fridge",
+        "surface_type": "closed_shelf",
+        "position": [
+            1,
+            0
+        ],
+        "text": "fridge shelf 3"
+    },
+    "fridge-4cs-0dr-3ds-shelf-D": {
+        "environment": "fridge",
+        "surface_type": "closed_shelf",
+        "position": [
+            0,
+            0
+        ],
+        "text": "fridge shelf 4 (bottom)"
+    },
+    "fridge-4cs-0dr-3ds-door-A": {
+        "environment": "fridge",
+        "surface_type": "door_shelf",
+        "position": [
+            3,
+            1
+        ],
+        "text": "fridge top door shelf"
+    },
+    "fridge-4cs-0dr-3ds-door-B": {
+        "environment": "fridge",
+        "surface_type": "door_shelf",
+        "position": [
+            1,
+            1
+        ],
+        "text": "fridge middle door shelf"
+    },
+    "fridge-4cs-0dr-3ds-door-C": {
+        "environment": "fridge",
+        "surface_type": "door_shelf",
+        "position": [
+            0,
+            1
+        ],
+        "text": "fridge bottom door shelf"
+    },
+    "fridge-2cs-1dr-3ds-shelf-A": {
+        "environment": "fridge",
+        "surface_type": "closed_shelf",
+        "position": [
+            2,
+            0
+        ],
+        "text": "fridge top shelf"
+    },
+    "fridge-2cs-1dr-3ds-shelf-B": {
+        "environment": "fridge",
+        "surface_type": "closed_shelf",
+        "position": [
+            1,
+            0
+        ],
+        "text": "fridge middle shelf"
+    },
+    "fridge-2cs-1dr-3ds-drawer-A": {
+        "environment": "fridge",
+        "surface_type": "drawer",
+        "position": [
+            0,
+            0
+        ],
+        "text": "fridge bottom drawer"
+    },
+    "fridge-2cs-1dr-3ds-door-A": {
+        "environment": "fridge",
+        "surface_type": "door_shelf",
+        "position": [
+            3,
+            1
+        ],
+        "text": "fridge top door shelf"
+    },
+    "fridge-2cs-1dr-3ds-door-B": {
+        "environment": "fridge",
+        "surface_type": "door_shelf",
+        "position": [
+            2,
+            1
+        ],
+        "text": "fridge middle door shelf"
+    },
+    "fridge-2cs-1dr-3ds-door-C": {
+        "environment": "fridge",
+        "surface_type": "door_shelf",
+        "position": [
+            0,
+            1
+        ],
+        "text": "fridge bottom door shelf"
+    },
+    "fridge-3cs-3dr-0ds-shelf-A": {
+        "environment": "fridge",
+        "surface_type": "closed_shelf",
+        "position": [
+            4,
+            1
+        ],
+        "text": "fridge shelf 1 (top)"
+    },
+    "fridge-3cs-3dr-0ds-shelf-B": {
+        "environment": "fridge",
+        "surface_type": "closed_shelf",
+        "position": [
+            3,
+            1
+        ],
+        "text": "fridge shelf 2"
+    },
+    "fridge-3cs-3dr-0ds-shelf-C": {
+        "environment": "fridge",
+        "surface_type": "closed_shelf",
+        "position": [
+            2,
+            1
+        ],
+        "text": "fridge shelf 3"
+    },
+    "fridge-3cs-3dr-0ds-drawer-left-A": {
+        "environment": "fridge",
+        "surface_type": "drawer",
+        "position": [
+            1,
+            0
+        ],
+        "text": "fridge drawer 1 (middle-left)"
+    },
+    "fridge-3cs-3dr-0ds-drawer-right-A": {
+        "environment": "fridge",
+        "surface_type": "drawer",
+        "position": [
+            1,
+            2
+        ],
+        "text": "fridge drawer 2 (middle-right)"
+    },
+    "fridge-3cs-3dr-0ds-drawer-bottom-B": {
+        "environment": "fridge",
+        "surface_type": "drawer",
+        "position": [
+            0,
+            1
+        ],
+        "text": "fridge drawer 3 (bottom)"
+    },
+    "bookshelf-6s-A": {
+        "environment": "bookshelf",
+        "surface_type": "open_shelf",
+        "position": [
+            5,
+            0
+        ],
+        "text": "shelf 1 (top)"
+    },
+    "bookshelf-6s-B": {
+        "environment": "bookshelf",
+        "surface_type": "open_shelf",
+        "position": [
+            4,
+            0
+        ],
+        "text": "shelf 2"
+    },
+    "bookshelf-6s-C": {
+        "environment": "bookshelf",
+        "surface_type": "open_shelf",
+        "position": [
+            3,
+            0
+        ],
+        "text": "shelf 3"
+    },
+    "bookshelf-6s-D": {
+        "environment": "bookshelf",
+        "surface_type": "open_shelf",
+        "position": [
+            2,
+            0
+        ],
+        "text": "shelf 4"
+    },
+    "bookshelf-6s-E": {
+        "environment": "bookshelf",
+        "surface_type": "open_shelf",
+        "position": [
+            1,
+            0
+        ],
+        "text": "shelf 5"
+    },
+    "bookshelf-6s-F": {
+        "environment": "bookshelf",
+        "surface_type": "open_shelf",
+        "position": [
+            0,
+            0
+        ],
+        "text": "shelf 6 (bottom)"
+    },
+    "bookshelf-5s-A": {
+        "environment": "bookshelf",
+        "surface_type": "open_shelf",
+        "position": [
+            4,
+            0
+        ],
+        "text": "shelf 1 (top)"
+    },
+    "bookshelf-5s-B": {
+        "environment": "bookshelf",
+        "surface_type": "open_shelf",
+        "position": [
+            3,
+            0
+        ],
+        "text": "shelf 2"
+    },
+    "bookshelf-5s-C": {
+        "environment": "bookshelf",
+        "surface_type": "open_shelf",
+        "position": [
+            2,
+            0
+        ],
+        "text": "shelf 3"
+    },
+    "bookshelf-5s-D": {
+        "environment": "bookshelf",
+        "surface_type": "open_shelf",
+        "position": [
+            1,
+            0
+        ],
+        "text": "shelf 4"
+    },
+    "bookshelf-5s-E": {
+        "environment": "bookshelf",
+        "surface_type": "open_shelf",
+        "position": [
+            0,
+            0
+        ],
+        "text": "shelf 5 (bottom)"
+    },
+    "bookshelf-4s-A": {
+        "environment": "bookshelf",
+        "surface_type": "open_shelf",
+        "position": [
+            3,
+            0
+        ],
+        "text": "shelf 1 (top)"
+    },
+    "bookshelf-4s-B": {
+        "environment": "bookshelf",
+        "surface_type": "open_shelf",
+        "position": [
+            2,
+            0
+        ],
+        "text": "shelf 2"
+    },
+    "bookshelf-4s-C": {
+        "environment": "bookshelf",
+        "surface_type": "open_shelf",
+        "position": [
+            1,
+            0
+        ],
+        "text": "shelf 3"
+    },
+    "bookshelf-4s-D": {
+        "environment": "bookshelf",
+        "surface_type": "open_shelf",
+        "position": [
+            0,
+            0
+        ],
+        "text": "shelf 4 (bottom)"
+    },
+    "dresserdrawer-6dr-3s-1ts-shelf-right-A": {
+        "environment": "dresser",
+        "surface_type": "open_shelf",
+        "position": [
+            7,
+            2
+        ],
+        "text": "dresser top shelf (open)"
+    },
+    "dresserdrawer-6dr-3s-1ts-shelf-right-B": {
+        "environment": "dresser",
+        "surface_type": "open_shelf",
+        "position": [
+            6,
+            2
+        ],
+        "text": "dresser middle shelf (open)"
+    },
+    "dresserdrawer-6dr-3s-1ts-shelf-right-C": {
+        "environment": "dresser",
+        "surface_type": "open_shelf",
+        "position": [
+            5,
+            2
+        ],
+        "text": "dresser bottom shelf (open)"
+    },
+    "dresserdrawer-6dr-3s-1ts-table-surface": {
+        "environment": "dresser",
+        "surface_type": "table_surface",
+        "position": [
+            4,
+            1
+        ],
+        "text": "dresser table surface"
+    },
+    "dresserdrawer-6dr-3s-1ts-drawer-left": {
+        "environment": "dresser",
+        "surface_type": "drawer",
+        "position": [
+            3,
+            0
+        ],
+        "text": "dresser left drawer"
+    },
+    "dresserdrawer-6dr-3s-1ts-drawer-center": {
+        "environment": "dresser",
+        "surface_type": "drawer",
+        "position": [
+            3,
+            1
+        ],
+        "text": "dresser center drawer"
+    },
+    "dresserdrawer-6dr-3s-1ts-drawer-right-A": {
+        "environment": "dresser",
+        "surface_type": "drawer",
+        "position": [
+            3,
+            2
+        ],
+        "text": "dresser right drawer 1 (top)"
+    },
+    "dresserdrawer-6dr-3s-1ts-drawer-right-B": {
+        "environment": "dresser",
+        "surface_type": "drawer",
+        "position": [
+            2,
+            2
+        ],
+        "text": "dresser right drawer 2"
+    },
+    "dresserdrawer-6dr-3s-1ts-drawer-right-C": {
+        "environment": "dresser",
+        "surface_type": "drawer",
+        "position": [
+            1,
+            2
+        ],
+        "text": "dresser right drawer 3"
+    },
+    "dresserdrawer-6dr-3s-1ts-drawer-right-D": {
+        "environment": "dresser",
+        "surface_type": "drawer",
+        "position": [
+            0,
+            2
+        ],
+        "text": "dresser right drawer 4 (bottom)"
+    },
+    "dresserdrawer-2dr-4s-1ts-shelf-left-A": {
+        "environment": "dresser",
+        "surface_type": "open_shelf",
+        "position": [
+            3,
+            0
+        ],
+        "text": "dresser top-left shelf (open)"
+    },
+    "dresserdrawer-2dr-4s-1ts-shelf-left-B": {
+        "environment": "dresser",
+        "surface_type": "open_shelf",
+        "position": [
+            2,
+            0
+        ],
+        "text": "dresser bottom-left shelf (open)"
+    },
+    "dresserdrawer-2dr-4s-1ts-shelf-right-A": {
+        "environment": "dresser",
+        "surface_type": "open_shelf",
+        "position": [
+            3,
+            2
+        ],
+        "text": "dresser top-right shelf (open)"
+    },
+    "dresserdrawer-2dr-4s-1ts-shelf-right-B": {
+        "environment": "dresser",
+        "surface_type": "open_shelf",
+        "position": [
+            2,
+            2
+        ],
+        "text": "dresser bottom-right shelf (open)"
+    },
+    "dresserdrawer-2dr-4s-1ts-table-surface": {
+        "environment": "dresser",
+        "surface_type": "table_surface",
+        "position": [
+            1,
+            1
+        ],
+        "text": "dresser table surface"
+    },
+    "dresserdrawer-2dr-4s-1ts-drawer-left": {
+        "environment": "dresser",
+        "surface_type": "drawer",
+        "position": [
+            0,
+            0
+        ],
+        "text": "dresser left drawer"
+    },
+    "dresserdrawer-2dr-4s-1ts-drawer-right": {
+        "environment": "dresser",
+        "surface_type": "drawer",
+        "position": [
+            0,
+            2
+        ],
+        "text": "dresser right drawer"
+    },
+    "dresserdrawer-5dr-0s-1ts-drawer-left-A": {
+        "environment": "dresser",
+        "surface_type": "drawer",
+        "position": [
+            2,
+            0
+        ],
+        "text": "dresser left drawer 1 (top)"
+    },
+    "dresserdrawer-5dr-0s-1ts-drawer-left-B": {
+        "environment": "dresser",
+        "surface_type": "drawer",
+        "position": [
+            1,
+            0
+        ],
+        "text": "dresser left drawer 2"
+    },
+    "dresserdrawer-5dr-0s-1ts-drawer-left-C": {
+        "environment": "dresser",
+        "surface_type": "drawer",
+        "position": [
+            0,
+            0
+        ],
+        "text": "dresser left drawer 3 (bottom)"
+    },
+    "dresserdrawer-5dr-0s-1ts-drawer-center": {
+        "environment": "dresser",
+        "surface_type": "drawer",
+        "position": [
+            2,
+            1
+        ],
+        "text": "dresser center drawer"
+    },
+    "dresserdrawer-5dr-0s-1ts-drawer-right": {
+        "environment": "dresser",
+        "surface_type": "drawer",
+        "position": [
+            2,
+            2
+        ],
+        "text": "dresser right drawer"
+    },
+    "dresserdrawer-5dr-0s-1ts-table-surface": {
+        "environment": "dresser",
+        "surface_type": "table_surface",
+        "position": [
+            3,
+            1
+        ],
+        "text": "dresser table surface"
+    }
+}

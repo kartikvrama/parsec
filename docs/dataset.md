@@ -11,13 +11,6 @@ python permute_user_data.py \
 ```
 The `dryrun` flag calculates the approximate number of examples per environmennt instance.
 
-## Comparing PARSEC data with Rule-based Arrangements
-The following script compares the generated PARSEC data with rule-based arrangements for a particular environment instance:
-```
-python visualize_dataset_diversity.py
-```
-Please replace the `DATA_FOLDER` variable with the path to the user arrangements folder. The script will generate a plot showing the aggregate wordnet similarity scores for the generated arrangements and the rule-based arrangements. The plot will be saved in the `figures` folder. 
-
 ## K-fold Cross Validation Sets
 
 We run two computational experiments using k-fold cross-validation -- KnownEnv and NovelEnvCategory.

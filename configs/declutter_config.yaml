@@ -1,0 +1,21 @@
+# # DEFAULT EVAL PARAMETERS FOR DECLUTTER.
+# Model params.
+num_heads: 1
+num_layers: 1
+hidden_layer_size: 512
+dropout: 0.5
+object_dimension: 384
+num_container_types: 5
+num_surface_types: 6
+surface_grid_dimension: 64
+type_embedding_dim: 1
+instance_encoder_dim: 256
+# Train params.
+batch_size: 1
+lrate: 5e-5
+wt_decay: 1e-20
+lr_scheduler_tmax: None # LR scheduler (None if you don't want LR scheduling).
+alpha: 1.0
+beta: 0.5
+triplet_margin_main: 0.75
+triplet_margin_aux: 0.75

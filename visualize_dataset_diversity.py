@@ -17,7 +17,7 @@ from visualize import core_compare_struct
 # Constants
 CONTAINER_TYPE = "fridge"
 HOUSEHOLD = 3
-DATA_FOLDER = "/path/to/user/arrangements"
+DATA_FOLDER = "/coc/flash5/kvr6/data/declutter_user_data/arrangements_json"
 OBJECT2ID = None
 SURF_CONSTANTS = None
 

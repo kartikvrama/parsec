@@ -1,0 +1,94 @@
+name,category
+alarm clock,timepiece.n.01
+alexa smart home device,device.n.01
+apple,edible_fruit.n.01
+aromatic oil diffuser,container.n.01
+bag of sugar,flavorer.n.01
+banana,edible_fruit.n.01
+bar of soap,cleansing_agent.n.01
+basket,container.n.01
+beer mug,container.n.01
+body sponge (loofah),fiber.n.01
+body wash,cleansing_agent.n.01
+book,publication.n.01
+bottle of lemonade,beverage.n.01
+bottle of lotion,toiletry.n.01
+bottle of perfume,toiletry.n.01
+bottle of wine,beverage.n.01
+bottled water,container.n.01
+box of cereal,cereal.n.03
+box of crackers,bread.n.01
+bundt cake pan,kitchen_utensil.n.01
+butter,dairy_product.n.01
+can of beans,common_bean.n.02
+can of soda/pop,beverage.n.01
+can opener,implement.n.01
+candle,device.n.01
+candle stand,candelabrum.n.01
+cap,clothing.n.01
+carrot,carrot.n.01
+carton of eggs,egg.n.01
+cereal bowl,container.n.01
+cheese,dairy_product.n.01
+chicken broth,chicken_broth.n.01
+china plate,plate.n.04
+chocolate syrup,flavorer.n.01
+coffee mug,container.n.01
+cotton swabs,fiber.n.01
+decor item,decoration.n.01
+decorative vase,container.n.01
+dental floss,dental_floss.n.01
+deodorant,toiletry.n.01
+electric trimmer,razor.n.01
+frying pan,kitchen_utensil.n.01
+glass cleaner,cleansing_agent.n.01
+hair brush,implement.n.01
+hair dryer,device.n.01
+hair straightener,device.n.01
+hat,clothing.n.01
+heavy cream,dairy_product.n.01
+ketchup bottle,flavorer.n.01
+lamp,table_lamp.n.01
+lime squeezer,kitchen_utensil.n.01
+lipstick,toiletry.n.01
+loaf of bread,bread.n.01
+magazine,publication.n.01
+milk carton,dairy_product.n.01
+mug,container.n.01
+nail polish bottle,toiletry.n.01
+necklace,decoration.n.01
+orange juice,beverage.n.01
+peanut butter,flavorer.n.01
+photo frame,frame.n.10
+pill bottle,container.n.01
+plant,plant.n.02
+purse/handbag,container.n.01
+razor,razor.n.01
+rubber gloves,clothing.n.01
+sanitizing wipes,fabric.n.01
+saucepan with lid,kitchen_utensil.n.01
+scrub brush,implement.n.01
+serving tray,container.n.01
+shampoo bottle,cleansing_agent.n.01
+silicone spatula,kitchen_utensil.n.01
+soap dispenser,container.n.01
+sour cream,dairy_product.n.01
+soy sauce,flavorer.n.01
+spectacles,spectacles.n.01
+statue,statue.n.01
+strawberry jam,strawberry_jam.n.01
+sunglasses,spectacles.n.01
+t-shirt,clothing.n.01
+tea pot,kitchen_utensil.n.01
+tissue box,tissue.n.02
+toilet paper roll,tissue.n.02
+toothbrush,implement.n.01
+toothpaste,cleansing_agent.n.01
+tortillas,tortilla.n.01
+towel,fabric.n.01
+vanity mirror,device.n.01
+vase with flowers,container.n.01
+vintage radio,radio_receiver.n.01
+wallet,container.n.01
+watch,timepiece.n.01
+wine glass,container.n.01

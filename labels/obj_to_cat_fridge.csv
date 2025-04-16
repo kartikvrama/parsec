@@ -1,0 +1,24 @@
+name,category
+apple,fruit.n.01
+banana,fruit.n.01
+carrot,plant_organ.n.01
+bottle of lemonade,beverage.n.01
+bottle of wine,beverage.n.01
+bottled water,beverage.n.01
+orange juice,beverage.n.01
+butter,dairy_product.n.01
+sour cream,dairy_product.n.01
+carton of eggs,egg.n.01
+cheese,dairy_product.n.01
+heavy cream,dairy_product.n.01
+milk carton,dairy_product.n.01
+chocolate syrup,condiment.n.01
+ketchup bottle,condiment.n.01
+soy sauce,condiment.n.01
+chicken broth,dish.n.02
+strawberry jam,spread.n.05
+peanut butter,spread.n.05
+tortillas,baked_goods.n.01
+loaf of bread,baked_goods.n.01
+bundt cake pan,tin.n.02
+can of soda/pop,beverage.n.01
