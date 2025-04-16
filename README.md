@@ -6,9 +6,9 @@ Scene Context", currently under review at ROMAN 2025. The repo contains code for
 [Installation.md](./docs/installation.md) contains instructions on installing dependencies.
 
 ## PARSEC Dataset
-PARSEC contains a novel object rearrangement dataset of 110k evaluation examples, generated from crowdsourcing using the data collection interface [here](https://github.com/kartikvrama/parsec-dataset-and-evaluation/tree/main/data_collection_fullstack). We asked 72 online users to perform five household organizational tasks: stocking a kitchen pantry, arranging a bathroom cabinet, rearranging a bedroom dresser, stocking a fridge, and decorating a display shelf. In total, we collected 432 object arrangements, involving 93 household objects and spanning 72 users and 15 environment instances. You can download the dataset at this link: [coming soon!](TODO)
+PARSEC contains a novel object rearrangement dataset of 110k evaluation examples, generated from crowdsourcing using the data collection interface [here](https://github.com/kartikvrama/parsec-dataset-and-evaluation/tree/main/data_collection_fullstack). We asked 72 online users to perform five household organizational tasks: stocking a kitchen pantry, arranging a bathroom cabinet, rearranging a bedroom dresser, stocking a fridge, and decorating a display shelf. In total, we collected 432 object arrangements, involving 93 household objects and spanning 72 users and 15 environment instances. You can download the dataset at this [dropbox link](https://www.dropbox.com/scl/fi/oeuq12h9x32pfwx6vv3h7/parsec_data.zip?rlkey=vc50ndzgxj3qjtwkndznzrmxw&st=h4z9dlul&dl=0).
 
-[Dataset.md](./docs/dataset.md) contains instructions on generating evaluation examples and visulalizing examples. 
+[Dataset.md](./docs/dataset.md) contains details about the dataset and instructions on generating evaluation examples and visulalizing examples.
 
 ## Training and Evaluation Rearrangement Models
 The CF, CFFM, NeatNet, and ConSOR methods are trained on PARSEC dataset, while the TidyBot-Random, APRICOT-NonInteractive, and ContextSortLM models are LLM-based models that do not use any examples from this dataset. Model checkpoints for all models trained on this dataset are available at this link: [coming soon!](TODO)
