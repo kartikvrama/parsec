@@ -1,0 +1,116 @@
+Using rail-lab partition
+--Model params--
+num_heads: 1
+num_layers: 1
+hidden_layer_size: 512
+dropout: 0.5
+object_dimension: 384
+num_container_types: 5
+num_surface_types: 6
+surface_grid_dimension: 32
+type_embedding_dim: 1
+instance_encoder_dim: 64
+----
+
+Evaluating on fold_1.
+Number of users passing ACQ: 81
+User 5d6ac7e17658a1001a8c63b2 has maximum of 5 observed arrangements.
+User 5c4a428161c51f0001e96b3f has maximum of 5 observed arrangements.
+User 63d5a05179cf91a6e6a652cb has maximum of 5 observed arrangements.
+User 62b0b9d60841bfa66838f436 has maximum of 5 observed arrangements.
+User 637058f9e7a26c452d1cc49a has maximum of 5 observed arrangements.
+User 630b78df7445f304dfb7d50c has maximum of 5 observed arrangements.
+User 5d23460ad4c57900192b129c has maximum of 5 observed arrangements.
+User 630386f64c5bbd56ab1c3b0f has maximum of 5 observed arrangements.
+User 63e576170eb086a90644efb4 has maximum of 5 observed arrangements.
+User 5e2c9026f4a3052be159c494 has maximum of 5 observed arrangements.
+User 616dabffda7757926ea7e84d has maximum of 5 observed arrangements.
+User 63c40b98533b26ec941005c3 has maximum of 5 observed arrangements.
+User 615d051e2366aeb051acb734 has maximum of 5 observed arrangements.
+User 611ff6cc935b6de3fff0b896 has maximum of 5 observed arrangements.
+User 5842eb2904e7550001a06b14 has maximum of 5 observed arrangements.
+User 5bd4e6f7c4f8e900013ae526 has maximum of 5 observed arrangements.
+User 615e1782e969d4939045c54f has maximum of 5 observed arrangements.
+User 60fcb7afde5ab78707e377d6 has maximum of 5 observed arrangements.
+User 627963ff086cb4a8ec377869 has maximum of 5 observed arrangements.
+User 5e0571b7e297d5fa932cf415 has maximum of 5 observed arrangements.
+User 5f5353ff017c5965165df065 has maximum of 5 observed arrangements.
+User 5f5550685e8dec926f63cef1 has maximum of 5 observed arrangements.
+User 5fd53e2d08163d37f7cb72f6 has maximum of 5 observed arrangements.
+User 63052f20afc39e87110eb83e has maximum of 5 observed arrangements.
+Unique number of arrangements: [5]
+Number of users with 5 arrangements: 24
+Sequence tensor dim: 544, Scene tensor dim: 512
+Alpha: 1.0, Beta: 1.0
+Triplet margin main: 0.75, Triplet margin aux: 0.75
+Number of evaluation scenes: 1230.
+Processing scene number 0: 627963ff086cb4a8ec377869_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0
+Evaluating on fold_2.
+Number of users passing ACQ: 81
+User 5e3ae8e5ebfb032f9058ef33 has maximum of 5 observed arrangements.
+User 5652186a812a980012fe65ce has maximum of 5 observed arrangements.
+User 614f64af286f5a5cc8fa849d has maximum of 5 observed arrangements.
+User 60d9faa609c8dcb9e5e05481 has maximum of 5 observed arrangements.
+User 5d1b4ec634783e0001336019 has maximum of 5 observed arrangements.
+User 5b566435d8348500012d2d65 has maximum of 5 observed arrangements.
+User 5dd446ab87c1fd43fbb49aa1 has maximum of 5 observed arrangements.
+User 5d4fc7b44ec90b0017218453 has maximum of 5 observed arrangements.
+User 5c5a19299404f10001ff8cbf has maximum of 5 observed arrangements.
+User 5c65739723f6300001380c2c has maximum of 5 observed arrangements.
+User 60fc9ce95a59b3400b38e2a7 has maximum of 5 observed arrangements.
+User 5eea537ffd89d01283ffac22 has maximum of 5 observed arrangements.
+User 5fec06ae197628d566cdc782 has maximum of 5 observed arrangements.
+User 5f07b62e0e3ac43ea9d490c6 has maximum of 5 observed arrangements.
+User 5d5f0b2e0e71190019c643f7 has maximum of 5 observed arrangements.
+User 605fe9680cac2ea943d411ec has maximum of 5 observed arrangements.
+User 5be8a1701664db0001d804f8 has maximum of 5 observed arrangements.
+User 56cb15ad64c068000b4d7ca5 has maximum of 5 observed arrangements.
+User 5f9f0e68b9f7035144cef331 has maximum of 5 observed arrangements.
+User 5c8ec999bb6a3c00014acf5f has maximum of 5 observed arrangements.
+User 611c2ed2d1d6a90e05ceeb30 has maximum of 5 observed arrangements.
+User 610631ba860f21ac066946cf has maximum of 5 observed arrangements.
+User 63d7ce77f6d6c8067823d746 has maximum of 5 observed arrangements.
+Unique number of arrangements: [5]
+Number of users with 5 arrangements: 23
+Sequence tensor dim: 544, Scene tensor dim: 512
+Alpha: 1.0, Beta: 1.0
+Triplet margin main: 0.75, Triplet margin aux: 0.75
+Number of evaluation scenes: 1146.
+Processing scene number 0: 605fe9680cac2ea943d411ec_F_gperm_0_gnum11_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0
+Evaluating on fold_3.
+Number of users passing ACQ: 81
+User 5e8aa39f3dabf475987ddaf3 has maximum of 5 observed arrangements.
+User 63df06a8c5ac5f3c6bf77e6f has maximum of 5 observed arrangements.
+User 64dd3e11a1123030a614608a has maximum of 5 observed arrangements.
+User 631685f7d6d6fcb196e87f0a has maximum of 5 observed arrangements.
+User 6155b9c45f96867d9d9631fd has maximum of 5 observed arrangements.
+User 5a792c898fe2dc0001058c3b has maximum of 5 observed arrangements.
+User 5d278e6a6f7c660019b56196 has maximum of 5 observed arrangements.
+User 565a3d24c51d430005875042 has maximum of 5 observed arrangements.
+User 5f207c8b6c71a1140fb70df5 has maximum of 5 observed arrangements.
+User 5cdf4dd618f742000174cd3f has maximum of 5 observed arrangements.
+User 6121aaee9d29f0c6e3bc8bea has maximum of 5 observed arrangements.
+User 610d3c0535871d8bfa25107f has maximum of 5 observed arrangements.
+User 5a907927873cda0001dc4719 has maximum of 5 observed arrangements.
+User 5c4eb384c9c8550001720152 has maximum of 5 observed arrangements.
+User 6167abbd7db521535e811eb0 has maximum of 5 observed arrangements.
+User 64d51bcdead49bdcdb2ddc37 has maximum of 5 observed arrangements.
+User 588021688e1ad5000142dfdf has maximum of 4 observed arrangements.
+User 649f525cce87cb12c95ea642 has maximum of 5 observed arrangements.
+User 6111c4865701e1ba367af3e3 has maximum of 5 observed arrangements.
+User 63d2d8a78197f0f6168543b1 has maximum of 4 observed arrangements.
+User 63d41c2627381fc53af61e58 has maximum of 5 observed arrangements.
+User 5f9ded175aa86e381f394e74 has maximum of 3 observed arrangements.
+User 6102c81e911700cf7ba5f6bd has maximum of 5 observed arrangements.
+User 644087beeb531ba7b10ae320 has maximum of 5 observed arrangements.
+User 5b6db9e0580154000153cc64 has maximum of 5 observed arrangements.
+Unique number of arrangements: [5, 4, 3]
+Number of users with 5 arrangements: 22
+Number of users with 4 arrangements: 2
+Number of users with 3 arrangements: 1
+Sequence tensor dim: 544, Scene tensor dim: 512
+Alpha: 1.0, Beta: 1.0
+Triplet margin main: 0.75, Triplet margin aux: 0.75
+Number of evaluation scenes: 1131.
+Processing scene number 0: 5a907927873cda0001dc4719_B_gperm_0_gnum1_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0
+Done

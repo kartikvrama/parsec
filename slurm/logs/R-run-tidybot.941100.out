@@ -1,0 +1,144 @@
+Running command: srun -u /coc/flash5/kvr6/anaconda3/envs/declutter/bin/python -u run_tidybot.py     --prompt_directory /coc/flash5/kvr6/data/declutter_user_data/prompts-2024-08-15/out_distribution     --destination_folder /coc/flash5/kvr6/dev/robo_declutter/results/tidybot_responses-gpt4
+Using model: gpt-4
+Processing fold: fold_1
+Completed 0 scenes.
+Completed 250 scenes.
+Completed 500 scenes.
+Generated 0 / 741 responses - currently at 605fe9680cac2ea943d411ec_F_gperm_0_gnum9_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Warning: Stopping since newline was encountered
+Generated 50 / 741 responses - currently at 605fe9680cac2ea943d411ec_B_gperm_0_gnum9_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Generated 100 / 741 responses - currently at 5d1b4ec634783e0001336019_A_gperm_0_gnum2_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Warning: Stopping since newline was encountered
+Warning: Stopping since newline was encountered
+Generated 150 / 741 responses - currently at 6111c4865701e1ba367af3e3_F_gperm_0_gnum1_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Generated 200 / 741 responses - currently at 63d2d8a78197f0f6168543b1_C_gperm_0_gnum8_dpermA-0-0_B-0-0_D-0-0_F-0-0.
+Generated 250 / 741 responses - currently at 630386f64c5bbd56ab1c3b0f_E_gperm_0_gnum3_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Warning: Stopping since newline was encountered
+Warning: Skipping invalid placement
+Warning: Stopping since newline was encountered
+Generated 300 / 741 responses - currently at 6111c4865701e1ba367af3e3_C_gperm_0_gnum1_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Generated 350 / 741 responses - currently at 5c8ec999bb6a3c00014acf5f_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Generated 400 / 741 responses - currently at 6111c4865701e1ba367af3e3_E_gperm_0_gnum7_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Warning: Stopping since newline was encountered
+Generated 450 / 741 responses - currently at 637058f9e7a26c452d1cc49a_B_gperm_0_gnum2_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Generated 500 / 741 responses - currently at 637058f9e7a26c452d1cc49a_D_gperm_0_gnum12_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Generated 550 / 741 responses - currently at 5e3ae8e5ebfb032f9058ef33_B_gperm_0_gnum5_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Warning: Stopping since newline was encountered
+Generated 600 / 741 responses - currently at 62b0b9d60841bfa66838f436_C_gperm_0_gnum3_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Warning: Stopping since newline was encountered
+Generated 650 / 741 responses - currently at 56cb15ad64c068000b4d7ca5_A_gperm_0_gnum5_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Warning: Stopping since newline was encountered
+Warning: Stopping since newline was encountered
+Generated 700 / 741 responses - currently at 637058f9e7a26c452d1cc49a_F_gperm_0_gnum7_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Processing fold: fold_5
+Completed 0 scenes.
+Completed 250 scenes.
+Completed 500 scenes.
+Generated 0 / 602 responses - currently at 5c65739723f6300001380c2c_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Generated 50 / 602 responses - currently at 63c40b98533b26ec941005c3_B_gperm_0_gnum6_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Warning: Found possibly invalid placement
+Warning: Found possibly invalid placement
+Warning: Skipping invalid placement
+Warning: Skipping invalid placement
+Generated 100 / 602 responses - currently at 63d41c2627381fc53af61e58_D_gperm_0_gnum1_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Generated 150 / 602 responses - currently at 630b78df7445f304dfb7d50c_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Generated 200 / 602 responses - currently at 6155b9c45f96867d9d9631fd_C_gperm_0_gnum9_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Warning: Stopping since newline was encountered
+Generated 250 / 602 responses - currently at 5f5550685e8dec926f63cef1_E_gperm_0_gnum11_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Warning: Stopping since newline was encountered
+Warning: Stopping since newline was encountered
+Generated 300 / 602 responses - currently at 63c40b98533b26ec941005c3_E_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Warning: Skipping invalid placement
+Warning: Skipping invalid placement
+Warning: Stopping since newline was encountered
+Generated 350 / 602 responses - currently at 5c65739723f6300001380c2c_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Generated 400 / 602 responses - currently at 6155b9c45f96867d9d9631fd_C_gperm_0_gnum3_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Generated 450 / 602 responses - currently at 5f5550685e8dec926f63cef1_F_gperm_0_gnum7_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Generated 500 / 602 responses - currently at 6155b9c45f96867d9d9631fd_C_gperm_0_gnum6_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Generated 550 / 602 responses - currently at 63c40b98533b26ec941005c3_A_gperm_0_gnum16_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Generated 600 / 602 responses - currently at 588021688e1ad5000142dfdf_D_gperm_0_gnum3_dpermA-0-0_B-0-0_C-0-0_F-0-0.
+Processing fold: fold_2
+Completed 0 scenes.
+Completed 250 scenes.
+Completed 500 scenes.
+Generated 0 / 737 responses - currently at 6121aaee9d29f0c6e3bc8bea_B_gperm_0_gnum15_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Generated 50 / 737 responses - currently at 6121aaee9d29f0c6e3bc8bea_C_gperm_0_gnum19_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Generated 100 / 737 responses - currently at 63df06a8c5ac5f3c6bf77e6f_C_gperm_0_gnum4_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Warning: Found possibly invalid placement
+Warning: Skipping invalid placement
+Generated 150 / 737 responses - currently at 615e1782e969d4939045c54f_E_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Generated 200 / 737 responses - currently at 63d5a05179cf91a6e6a652cb_B_gperm_0_gnum1_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Generated 250 / 737 responses - currently at 6121aaee9d29f0c6e3bc8bea_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Warning: Skipping invalid placement
+Warning: Skipping invalid placement
+Warning: Stopping since newline was encountered
+Generated 300 / 737 responses - currently at 6121aaee9d29f0c6e3bc8bea_B_gperm_0_gnum4_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Generated 350 / 737 responses - currently at 6121aaee9d29f0c6e3bc8bea_B_gperm_0_gnum10_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Generated 400 / 737 responses - currently at 5be8a1701664db0001d804f8_A_gperm_0_gnum4_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Warning: Stopping since newline was encountered
+Generated 450 / 737 responses - currently at 6121aaee9d29f0c6e3bc8bea_C_gperm_0_gnum16_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Generated 500 / 737 responses - currently at 5eea537ffd89d01283ffac22_A_gperm_0_gnum8_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Generated 550 / 737 responses - currently at 615e1782e969d4939045c54f_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Generated 600 / 737 responses - currently at 5c4eb384c9c8550001720152_B_gperm_0_gnum3_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Warning: Stopping since newline was encountered
+Generated 650 / 737 responses - currently at 60fcb7afde5ab78707e377d6_B_gperm_0_gnum3_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Generated 700 / 737 responses - currently at 5be8a1701664db0001d804f8_F_gperm_0_gnum9_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Warning: Stopping since newline was encountered
+Processing fold: fold_3
+Completed 0 scenes.
+Completed 250 scenes.
+Completed 500 scenes.
+Generated 0 / 711 responses - currently at 5d23460ad4c57900192b129c_A_gperm_0_gnum9_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Generated 50 / 711 responses - currently at 5f207c8b6c71a1140fb70df5_D_gperm_0_gnum7_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Warning: Stopping since newline was encountered
+Generated 100 / 711 responses - currently at 627963ff086cb4a8ec377869_A_gperm_0_gnum7_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Warning: Stopping since newline was encountered
+Generated 150 / 711 responses - currently at 649f525cce87cb12c95ea642_B_gperm_0_gnum2_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Generated 200 / 711 responses - currently at 565a3d24c51d430005875042_A_gperm_0_gnum4_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Warning: Stopping since newline was encountered
+Generated 250 / 711 responses - currently at 5f9f0e68b9f7035144cef331_A_gperm_0_gnum9_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Generated 300 / 711 responses - currently at 631685f7d6d6fcb196e87f0a_C_gperm_0_gnum1_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Warning: Stopping since newline was encountered
+Generated 350 / 711 responses - currently at 5e8aa39f3dabf475987ddaf3_E_gperm_0_gnum5_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Generated 400 / 711 responses - currently at 631685f7d6d6fcb196e87f0a_E_gperm_0_gnum3_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Warning: Stopping since newline was encountered
+Generated 450 / 711 responses - currently at 5b566435d8348500012d2d65_A_gperm_0_gnum8_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Warning: Found possibly invalid placement
+Warning: Skipping invalid placement
+Warning: Stopping since newline was encountered
+Generated 500 / 711 responses - currently at 614f64af286f5a5cc8fa849d_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Generated 550 / 711 responses - currently at 5f9f0e68b9f7035144cef331_C_gperm_0_gnum3_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Generated 600 / 711 responses - currently at 649f525cce87cb12c95ea642_C_gperm_0_gnum1_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Generated 650 / 711 responses - currently at 631685f7d6d6fcb196e87f0a_C_gperm_0_gnum10_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Generated 700 / 711 responses - currently at 615d051e2366aeb051acb734_F_gperm_0_gnum1_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Warning: Stopping since newline was encountered
+Processing fold: fold_4
+Completed 0 scenes.
+Completed 250 scenes.
+Completed 500 scenes.
+Generated 0 / 716 responses - currently at 611c2ed2d1d6a90e05ceeb30_E_gperm_0_gnum1_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Generated 50 / 716 responses - currently at 5842eb2904e7550001a06b14_B_gperm_0_gnum10_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Warning: Stopping since newline was encountered
+Generated 100 / 716 responses - currently at 5d278e6a6f7c660019b56196_C_gperm_0_gnum4_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Warning: Stopping since newline was encountered
+Warning: Stopping since newline was encountered
+Generated 150 / 716 responses - currently at 5d278e6a6f7c660019b56196_D_gperm_0_gnum3_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Generated 200 / 716 responses - currently at 611c2ed2d1d6a90e05ceeb30_C_gperm_0_gnum4_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Warning: Stopping since newline was encountered
+Generated 250 / 716 responses - currently at 5b6db9e0580154000153cc64_D_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Generated 300 / 716 responses - currently at 5c5a19299404f10001ff8cbf_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Warning: Stopping since newline was encountered
+Generated 350 / 716 responses - currently at 610631ba860f21ac066946cf_E_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Warning: Skipping invalid placement
+Warning: Skipping invalid placement
+Warning: Skipping invalid placement
+Warning: Stopping since newline was encountered
+Generated 400 / 716 responses - currently at 5b6db9e0580154000153cc64_C_gperm_0_gnum5_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Generated 450 / 716 responses - currently at 610631ba860f21ac066946cf_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Generated 500 / 716 responses - currently at 5b6db9e0580154000153cc64_B_gperm_0_gnum4_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Generated 550 / 716 responses - currently at 611c2ed2d1d6a90e05ceeb30_B_gperm_0_gnum6_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Generated 600 / 716 responses - currently at 611c2ed2d1d6a90e05ceeb30_F_gperm_0_gnum10_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Generated 650 / 716 responses - currently at 64d51bcdead49bdcdb2ddc37_E_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Warning: Stopping since newline was encountered
+Generated 700 / 716 responses - currently at 5bd4e6f7c4f8e900013ae526_D_gperm_0_gnum6_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done

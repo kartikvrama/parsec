@@ -1,0 +1,466 @@
+Running command: srun -u /coc/flash5/kvr6/anaconda3/envs/declutter/bin/python -u run_apricot_noquery.py
+Processing fold: fold_1
+Number of users passing ACQ: 81
+Number of scenes: 741
+Scene 5c4a428161c51f0001e96b3f_A_gperm_0_gnum2_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Scene 630386f64c5bbd56ab1c3b0f_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Scene 62b0b9d60841bfa66838f436_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0 already processed, skipping...
+Scene 5d6ac7e17658a1001a8c63b2_D_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0 already processed, skipping...
+Scene 637058f9e7a26c452d1cc49a_C_gperm_0_gnum4_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Scene 5c4a428161c51f0001e96b3f_D_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0 already processed, skipping...
+Scene 637058f9e7a26c452d1cc49a_E_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0 already processed, skipping...
+Done processing scene 5d6ac7e17658a1001a8c63b2_A_gperm_0_gnum2_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 62b0b9d60841bfa66838f436_A_gperm_0_gnum4_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+No matching placement for object lemonade, skipping.
+Scene still has unplaced objects: ['lemonade']
+Done processing scene 637058f9e7a26c452d1cc49a_C_gperm_0_gnum8_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Scene 5c4a428161c51f0001e96b3f_B_gperm_0_gnum2_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 62b0b9d60841bfa66838f436_F_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 5d6ac7e17658a1001a8c63b2_F_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 637058f9e7a26c452d1cc49a_E_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Scene 5c4a428161c51f0001e96b3f_F_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0 already processed, skipping...
+Done processing scene 630386f64c5bbd56ab1c3b0f_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 62b0b9d60841bfa66838f436_B_gperm_0_gnum4_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+No matching placement for object plant, skipping.
+No matching placement for object tissue box, skipping.
+Following placements did not have matching unplaced objects: [("'plant 2'", "'shelf 3'"), ("'tissue box'", "'shelf 5 (bottom)'")].
+Scene still has unplaced objects: ['plant', 'tissue box']
+Done processing scene 5d6ac7e17658a1001a8c63b2_B_gperm_0_gnum2_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Scene 5c4a428161c51f0001e96b3f_D_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 630386f64c5bbd56ab1c3b0f_B_gperm_0_gnum2_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 62b0b9d60841bfa66838f436_E_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 5d6ac7e17658a1001a8c63b2_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 637058f9e7a26c452d1cc49a_A_gperm_0_gnum8_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 637058f9e7a26c452d1cc49a_B_gperm_0_gnum4_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 630386f64c5bbd56ab1c3b0f_F_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 637058f9e7a26c452d1cc49a_F_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Scene 5c4a428161c51f0001e96b3f_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0 already processed, skipping...
+Done processing scene 637058f9e7a26c452d1cc49a_B_gperm_0_gnum8_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Scene 5c4a428161c51f0001e96b3f_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 630386f64c5bbd56ab1c3b0f_A_gperm_0_gnum2_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 637058f9e7a26c452d1cc49a_A_gperm_0_gnum4_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 630386f64c5bbd56ab1c3b0f_D_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 637058f9e7a26c452d1cc49a_F_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 5d6ac7e17658a1001a8c63b2_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 637058f9e7a26c452d1cc49a_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 62b0b9d60841bfa66838f436_C_gperm_0_gnum4_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Scene 5c4a428161c51f0001e96b3f_E_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0 already processed, skipping...
+Done processing scene 637058f9e7a26c452d1cc49a_F_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 637058f9e7a26c452d1cc49a_D_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 5d6ac7e17658a1001a8c63b2_C_gperm_0_gnum8_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 630386f64c5bbd56ab1c3b0f_F_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 630386f64c5bbd56ab1c3b0f_A_gperm_0_gnum8_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 637058f9e7a26c452d1cc49a_B_gperm_0_gnum2_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Scene 5c4a428161c51f0001e96b3f_C_gperm_0_gnum8_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 5d6ac7e17658a1001a8c63b2_E_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 630386f64c5bbd56ab1c3b0f_B_gperm_0_gnum4_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 62b0b9d60841bfa66838f436_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 62b0b9d60841bfa66838f436_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5d6ac7e17658a1001a8c63b2_C_gperm_0_gnum4_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 637058f9e7a26c452d1cc49a_D_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Raw response: ```json
+{
+  "reasoning": "From the demonstrations, the user seems to prefer specific locations for items of the same category. The user always places wines on fridge shelf 2, cheese on the fridge top door shelf, eggs on fridge shelf 3, and so on. They seem to prefer consistency and simplicity in how their fridge is organized, as the items remain in the same location regardless of other factors, such as size or quantity.",
+  "preference": "Wine bottles must be placed on fridge shelf 2, cheese on the fridge top door shelf, eggs on fridge shelf 3, apples on fridge shelf 4 (bottom), and butter on the fridge top door shelf. Each category of item has its own designated location."
+}
+```
+Error in cleaning preference response for scene 630386f64c5bbd56ab1c3b0f_F_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0, skipping.
+Scene 5c4a428161c51f0001e96b3f_E_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0 already processed, skipping...
+Done processing scene 630386f64c5bbd56ab1c3b0f_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 5d6ac7e17658a1001a8c63b2_E_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 637058f9e7a26c452d1cc49a_A_gperm_0_gnum2_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 630386f64c5bbd56ab1c3b0f_A_gperm_0_gnum4_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Scene 5c4a428161c51f0001e96b3f_C_gperm_0_gnum4_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Scene 5c4a428161c51f0001e96b3f_F_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0 already processed, skipping...
+Done processing scene 62b0b9d60841bfa66838f436_A_gperm_0_gnum2_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5d6ac7e17658a1001a8c63b2_A_gperm_0_gnum4_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5d6ac7e17658a1001a8c63b2_B_gperm_0_gnum8_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Scene 5c4a428161c51f0001e96b3f_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 630386f64c5bbd56ab1c3b0f_E_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 5d6ac7e17658a1001a8c63b2_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 637058f9e7a26c452d1cc49a_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Scene 5c4a428161c51f0001e96b3f_B_gperm_0_gnum8_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 62b0b9d60841bfa66838f436_D_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 630386f64c5bbd56ab1c3b0f_C_gperm_0_gnum4_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Following placements did not have matching unplaced objects: [('magazine', 'shelf 4 # move magazine from shelf 5 to shelf 4')].
+Done processing scene 5d6ac7e17658a1001a8c63b2_F_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Scene 5c4a428161c51f0001e96b3f_A_gperm_0_gnum4_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 5d6ac7e17658a1001a8c63b2_B_gperm_0_gnum4_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 630386f64c5bbd56ab1c3b0f_E_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 62b0b9d60841bfa66838f436_B_gperm_0_gnum2_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Scene 5c4a428161c51f0001e96b3f_F_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0 already processed, skipping...
+Done processing scene 637058f9e7a26c452d1cc49a_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 5d6ac7e17658a1001a8c63b2_F_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 62b0b9d60841bfa66838f436_F_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Scene 5c4a428161c51f0001e96b3f_A_gperm_0_gnum8_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Scene 5c4a428161c51f0001e96b3f_B_gperm_0_gnum4_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Processing fold: fold_2
+Number of users passing ACQ: 81
+Number of scenes: 737
+Done processing scene 63052f20afc39e87110eb83e_A_gperm_0_gnum4_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 63d5a05179cf91a6e6a652cb_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 615e1782e969d4939045c54f_C_gperm_0_gnum8_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Scene 60fcb7afde5ab78707e377d6_E_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0 already processed, skipping...
+Done processing scene 63052f20afc39e87110eb83e_B_gperm_0_gnum8_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 615e1782e969d4939045c54f_E_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 63d5a05179cf91a6e6a652cb_A_gperm_0_gnum4_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Scene 60fcb7afde5ab78707e377d6_C_gperm_0_gnum4_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 5e0571b7e297d5fa932cf415_E_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 63052f20afc39e87110eb83e_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 63d5a05179cf91a6e6a652cb_B_gperm_0_gnum8_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 63052f20afc39e87110eb83e_B_gperm_0_gnum4_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 63d5a05179cf91a6e6a652cb_F_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 63052f20afc39e87110eb83e_A_gperm_0_gnum8_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 615e1782e969d4939045c54f_C_gperm_0_gnum4_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Scene 60fcb7afde5ab78707e377d6_E_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0 already processed, skipping...
+Done processing scene 63d5a05179cf91a6e6a652cb_B_gperm_0_gnum4_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 63052f20afc39e87110eb83e_F_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 615e1782e969d4939045c54f_E_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Scene 60fcb7afde5ab78707e377d6_C_gperm_0_gnum8_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Scene 60fcb7afde5ab78707e377d6_F_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0 already processed, skipping...
+Done processing scene 5e0571b7e297d5fa932cf415_A_gperm_0_gnum4_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 63d5a05179cf91a6e6a652cb_E_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 615e1782e969d4939045c54f_A_gperm_0_gnum4_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+No matching placement for object lamp, skipping.
+Scene still has unplaced objects: ['lamp']
+Done processing scene 615e1782e969d4939045c54f_F_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Scene 60fcb7afde5ab78707e377d6_B_gperm_0_gnum4_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 63d5a05179cf91a6e6a652cb_C_gperm_0_gnum8_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 615e1782e969d4939045c54f_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 5e0571b7e297d5fa932cf415_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 63052f20afc39e87110eb83e_E_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 63052f20afc39e87110eb83e_C_gperm_0_gnum4_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+No matching placement for object sanitizing wipes, skipping.
+Following placements did not have matching unplaced objects: [('sanitized wipes', 'cabinet middle shelf')].
+Scene still has unplaced objects: ['sanitizing wipes']
+Done processing scene 63d5a05179cf91a6e6a652cb_E_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 615e1782e969d4939045c54f_A_gperm_0_gnum8_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Scene 60fcb7afde5ab78707e377d6_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 615e1782e969d4939045c54f_B_gperm_0_gnum4_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Scene 60fcb7afde5ab78707e377d6_F_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0 already processed, skipping...
+Done processing scene 5e0571b7e297d5fa932cf415_B_gperm_0_gnum4_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 63d5a05179cf91a6e6a652cb_C_gperm_0_gnum4_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Scene 60fcb7afde5ab78707e377d6_A_gperm_0_gnum4_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Raw response: ```json
+{
+  "reasoning": "From the demonstrations, it is observed that the user organizes different categories of items in certain preferences across all five demonstrations. The user consistently puts smaller items like watches, nail polish, lipstick, spectacles, perfume, beard trimmer, and deodorant in the drawers either in the centre or to the right side. Additionally, the items placed on the surface of the dresser and the middle open shelf are larger on average, like a mirror, vase, lamp, etc. Considering these observations, it can be assumed that the user's preference is dictated by the size of the items, with smaller items being stored in the drawers and larger items being kept in the open on the dresser or the open shelves.",
+  "preference": "Smaller items such as watches, nail polish, lipstick, spectacles, perfume, beard trimmers, and deodorants must be placed into the dresser's drawers. The specific drawer does not matter. Larger items which include things like mirrors, vases, lamps, and so on, should be kept in open areas like on the surface of the dresser or the middle open shelf."
+}
+```
+Error in cleaning preference response for scene 615e1782e969d4939045c54f_F_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0, skipping.
+Scene 60fcb7afde5ab78707e377d6_B_gperm_0_gnum8_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 5e0571b7e297d5fa932cf415_F_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 63052f20afc39e87110eb83e_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 5e0571b7e297d5fa932cf415_D_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 615e1782e969d4939045c54f_D_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Scene 60fcb7afde5ab78707e377d6_B_gperm_0_gnum2_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 63d5a05179cf91a6e6a652cb_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 615e1782e969d4939045c54f_A_gperm_0_gnum2_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Scene 60fcb7afde5ab78707e377d6_D_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 5e0571b7e297d5fa932cf415_A_gperm_0_gnum2_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Scene 60fcb7afde5ab78707e377d6_F_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0 already processed, skipping...
+Done processing scene 5e0571b7e297d5fa932cf415_F_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 615e1782e969d4939045c54f_F_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Scene 60fcb7afde5ab78707e377d6_A_gperm_0_gnum2_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 63d5a05179cf91a6e6a652cb_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 615e1782e969d4939045c54f_D_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 5e0571b7e297d5fa932cf415_B_gperm_0_gnum2_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 615e1782e969d4939045c54f_B_gperm_0_gnum2_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Scene 60fcb7afde5ab78707e377d6_D_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0 already processed, skipping...
+Surface 'shelf 1' not found in scene, skipping.
+Following placements did not have matching unplaced objects: [('candle', 'shelf 1')].
+Scene still has unplaced objects: ['candle']
+Done processing scene 63052f20afc39e87110eb83e_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Surface 'shelf 5' not found in scene, skipping.
+Surface 'shelf 5' not found in scene, skipping.
+Surface 'shelf 5' not found in scene, skipping.
+Following placements did not have matching unplaced objects: [('book', 'shelf 5'), ('alarm clock', 'shelf 5'), ('basket', 'shelf 5')].
+Scene still has unplaced objects: ['alarm clock', 'basket', 'book']
+Done processing scene 63052f20afc39e87110eb83e_D_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 5e0571b7e297d5fa932cf415_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 615e1782e969d4939045c54f_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Scene 60fcb7afde5ab78707e377d6_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 63d5a05179cf91a6e6a652cb_A_gperm_0_gnum2_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 63d5a05179cf91a6e6a652cb_D_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 63052f20afc39e87110eb83e_A_gperm_0_gnum2_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 63052f20afc39e87110eb83e_D_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 63d5a05179cf91a6e6a652cb_B_gperm_0_gnum2_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 63052f20afc39e87110eb83e_F_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 63d5a05179cf91a6e6a652cb_D_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 615e1782e969d4939045c54f_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Scene 60fcb7afde5ab78707e377d6_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0 already processed, skipping...
+Surface 'fridge shelf 1' not found in scene, skipping.
+Following placements did not have matching unplaced objects: [('lemonade', 'fridge shelf 1')].
+Scene still has unplaced objects: ['lemonade']
+Done processing scene 5e0571b7e297d5fa932cf415_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 63052f20afc39e87110eb83e_B_gperm_0_gnum2_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 63d5a05179cf91a6e6a652cb_F_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Processing fold: fold_3
+Number of users passing ACQ: 81
+Number of scenes: 711
+Scene 627963ff086cb4a8ec377869_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 615d051e2366aeb051acb734_B_gperm_0_gnum4_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5f5353ff017c5965165df065_B_gperm_0_gnum4_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5d23460ad4c57900192b129c_A_gperm_0_gnum2_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5f5353ff017c5965165df065_A_gperm_0_gnum8_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 615d051e2366aeb051acb734_A_gperm_0_gnum8_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5f5353ff017c5965165df065_F_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 5fd53e2d08163d37f7cb72f6_C_gperm_0_gnum4_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 615d051e2366aeb051acb734_F_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 5d23460ad4c57900192b129c_D_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Scene 627963ff086cb4a8ec377869_A_gperm_0_gnum4_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Scene 627963ff086cb4a8ec377869_F_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0 already processed, skipping...
+Following placements did not have matching unplaced objects: [('soda can', 'fridge shelf 4 (bottom)'), ('soda can', 'fridge shelf 4 (bottom)')].
+Done processing scene 5f5353ff017c5965165df065_A_gperm_0_gnum4_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5d23460ad4c57900192b129c_B_gperm_0_gnum2_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 615d051e2366aeb051acb734_A_gperm_0_gnum4_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 615d051e2366aeb051acb734_B_gperm_0_gnum8_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Surface 'fridge upper door shelf' not found in scene, skipping.
+Following placements did not have matching unplaced objects: [('chocolate syrup', 'fridge upper door shelf')].
+Scene still has unplaced objects: ['chocolate syrup']
+Done processing scene 5f5353ff017c5965165df065_B_gperm_0_gnum8_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5fd53e2d08163d37f7cb72f6_E_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Scene 627963ff086cb4a8ec377869_B_gperm_0_gnum4_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 615d051e2366aeb051acb734_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 5f5353ff017c5965165df065_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 5d23460ad4c57900192b129c_F_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 5f5353ff017c5965165df065_F_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 5d23460ad4c57900192b129c_D_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Scene 627963ff086cb4a8ec377869_A_gperm_0_gnum8_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 615d051e2366aeb051acb734_C_gperm_0_gnum4_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5f5353ff017c5965165df065_C_gperm_0_gnum4_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5fd53e2d08163d37f7cb72f6_F_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Scene 627963ff086cb4a8ec377869_E_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0 already processed, skipping...
+Done processing scene 5f5353ff017c5965165df065_E_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 5fd53e2d08163d37f7cb72f6_B_gperm_0_gnum4_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Scene 627963ff086cb4a8ec377869_C_gperm_0_gnum8_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 5d23460ad4c57900192b129c_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 5d23460ad4c57900192b129c_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Scene 627963ff086cb4a8ec377869_E_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0 already processed, skipping...
+Done processing scene 5fd53e2d08163d37f7cb72f6_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 5f5353ff017c5965165df065_C_gperm_0_gnum8_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5fd53e2d08163d37f7cb72f6_A_gperm_0_gnum4_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Scene 627963ff086cb4a8ec377869_C_gperm_0_gnum4_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 615d051e2366aeb051acb734_E_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 5f5353ff017c5965165df065_E_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 5d23460ad4c57900192b129c_E_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 5fd53e2d08163d37f7cb72f6_B_gperm_0_gnum2_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Scene 627963ff086cb4a8ec377869_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0 already processed, skipping...
+Done processing scene 615d051e2366aeb051acb734_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5fd53e2d08163d37f7cb72f6_F_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 5f5353ff017c5965165df065_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 615d051e2366aeb051acb734_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 5f5353ff017c5965165df065_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Scene 627963ff086cb4a8ec377869_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 5fd53e2d08163d37f7cb72f6_A_gperm_0_gnum2_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5d23460ad4c57900192b129c_C_gperm_0_gnum4_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 615d051e2366aeb051acb734_D_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 5f5353ff017c5965165df065_D_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 5d23460ad4c57900192b129c_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Scene 627963ff086cb4a8ec377869_A_gperm_0_gnum2_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 5fd53e2d08163d37f7cb72f6_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5f5353ff017c5965165df065_F_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 615d051e2366aeb051acb734_F_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 5d23460ad4c57900192b129c_B_gperm_0_gnum8_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 615d051e2366aeb051acb734_B_gperm_0_gnum2_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Scene 627963ff086cb4a8ec377869_D_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 5d23460ad4c57900192b129c_A_gperm_0_gnum4_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5f5353ff017c5965165df065_B_gperm_0_gnum2_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5d23460ad4c57900192b129c_F_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Surface 'shelf 5' not found in scene, skipping.
+Following placements did not have matching unplaced objects: [('magazine', 'shelf 5')].
+Scene still has unplaced objects: ['magazine']
+Done processing scene 615d051e2366aeb051acb734_D_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Scene 627963ff086cb4a8ec377869_B_gperm_0_gnum2_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 5f5353ff017c5965165df065_D_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 5fd53e2d08163d37f7cb72f6_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Scene 627963ff086cb4a8ec377869_D_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 5d23460ad4c57900192b129c_A_gperm_0_gnum8_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5d23460ad4c57900192b129c_B_gperm_0_gnum4_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5f5353ff017c5965165df065_A_gperm_0_gnum2_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 615d051e2366aeb051acb734_A_gperm_0_gnum2_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Scene 627963ff086cb4a8ec377869_F_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0 already processed, skipping...
+Processing fold: fold_4
+Number of users passing ACQ: 81
+Number of scenes: 716
+Done processing scene 5842eb2904e7550001a06b14_D_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 63e576170eb086a90644efb4_E_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Scene 616dabffda7757926ea7e84d_D_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 5bd4e6f7c4f8e900013ae526_E_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 611ff6cc935b6de3fff0b896_D_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Scene 616dabffda7757926ea7e84d_F_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0 already processed, skipping...
+Done processing scene 5842eb2904e7550001a06b14_A_gperm_0_gnum2_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 63e576170eb086a90644efb4_C_gperm_0_gnum4_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5bd4e6f7c4f8e900013ae526_C_gperm_0_gnum4_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 611ff6cc935b6de3fff0b896_A_gperm_0_gnum2_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Scene 616dabffda7757926ea7e84d_B_gperm_0_gnum2_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 5bd4e6f7c4f8e900013ae526_E_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 5842eb2904e7550001a06b14_F_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 611ff6cc935b6de3fff0b896_D_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 611ff6cc935b6de3fff0b896_F_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 63e576170eb086a90644efb4_E_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 5842eb2904e7550001a06b14_D_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Scene 616dabffda7757926ea7e84d_D_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 5842eb2904e7550001a06b14_B_gperm_0_gnum2_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5bd4e6f7c4f8e900013ae526_C_gperm_0_gnum8_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Scene 616dabffda7757926ea7e84d_A_gperm_0_gnum2_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 611ff6cc935b6de3fff0b896_B_gperm_0_gnum2_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 63e576170eb086a90644efb4_F_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 611ff6cc935b6de3fff0b896_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 5842eb2904e7550001a06b14_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 5bd4e6f7c4f8e900013ae526_F_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 63e576170eb086a90644efb4_B_gperm_0_gnum4_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5bd4e6f7c4f8e900013ae526_B_gperm_0_gnum4_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Scene 616dabffda7757926ea7e84d_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 63e576170eb086a90644efb4_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 5bd4e6f7c4f8e900013ae526_F_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Scene 616dabffda7757926ea7e84d_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0 already processed, skipping...
+Done processing scene 63e576170eb086a90644efb4_F_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 5bd4e6f7c4f8e900013ae526_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 63e576170eb086a90644efb4_A_gperm_0_gnum4_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5842eb2904e7550001a06b14_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5bd4e6f7c4f8e900013ae526_A_gperm_0_gnum4_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 611ff6cc935b6de3fff0b896_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Scene 616dabffda7757926ea7e84d_C_gperm_0_gnum4_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 5bd4e6f7c4f8e900013ae526_B_gperm_0_gnum2_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 611ff6cc935b6de3fff0b896_C_gperm_0_gnum8_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 63e576170eb086a90644efb4_B_gperm_0_gnum2_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Scene 616dabffda7757926ea7e84d_E_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0 already processed, skipping...
+Done processing scene 5bd4e6f7c4f8e900013ae526_F_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 5842eb2904e7550001a06b14_E_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 5bd4e6f7c4f8e900013ae526_D_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Surface 'shelf 5' not found in scene, skipping.
+Following placements did not have matching unplaced objects: [('basket', 'shelf 5')].
+Scene still has unplaced objects: ['basket']
+Done processing scene 63e576170eb086a90644efb4_F_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 611ff6cc935b6de3fff0b896_E_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 611ff6cc935b6de3fff0b896_C_gperm_0_gnum4_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5bd4e6f7c4f8e900013ae526_A_gperm_0_gnum2_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 63e576170eb086a90644efb4_A_gperm_0_gnum2_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5842eb2904e7550001a06b14_C_gperm_0_gnum4_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Scene 616dabffda7757926ea7e84d_C_gperm_0_gnum8_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 5bd4e6f7c4f8e900013ae526_D_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 611ff6cc935b6de3fff0b896_E_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Scene 616dabffda7757926ea7e84d_E_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0 already processed, skipping...
+Done processing scene 5842eb2904e7550001a06b14_E_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 63e576170eb086a90644efb4_D_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Scene 616dabffda7757926ea7e84d_B_gperm_0_gnum4_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 611ff6cc935b6de3fff0b896_A_gperm_0_gnum4_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5bd4e6f7c4f8e900013ae526_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5842eb2904e7550001a06b14_B_gperm_0_gnum8_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5842eb2904e7550001a06b14_A_gperm_0_gnum4_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 63e576170eb086a90644efb4_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Scene 616dabffda7757926ea7e84d_F_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0 already processed, skipping...
+Done processing scene 5842eb2904e7550001a06b14_F_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 611ff6cc935b6de3fff0b896_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 611ff6cc935b6de3fff0b896_F_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 5842eb2904e7550001a06b14_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 5842eb2904e7550001a06b14_A_gperm_0_gnum8_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 611ff6cc935b6de3fff0b896_B_gperm_0_gnum4_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Scene 616dabffda7757926ea7e84d_A_gperm_0_gnum4_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 611ff6cc935b6de3fff0b896_A_gperm_0_gnum8_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Scene 616dabffda7757926ea7e84d_B_gperm_0_gnum8_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 5842eb2904e7550001a06b14_B_gperm_0_gnum4_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Scene 616dabffda7757926ea7e84d_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 611ff6cc935b6de3fff0b896_F_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 63e576170eb086a90644efb4_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 5842eb2904e7550001a06b14_F_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Raw response: {
+"reasoning": "Across demonstrations, here are some patterns: 1. Most liquids (like bottled water, milk, lemonade) are placed on fridge shelf 2. 2. Cheese and creams are placed on fridge shelf 1 (top). 3. A variety of items like carrots, apples are placed on fridge shelf 3. 4. Interestingly, chicken broth is placed on fridge shelf 4 (bottom) while other kinds of liquids are not. 5. Condiments such as ketchup bottle, strawberry jam, and butter are placed in different door shelves. 
+From these, it can be inferred that this person prefers to segregate items based on some criteria like type of item, frequency of use, and size.",
+"preference": "The user prefers to place most liquids on fridge shelf 2. However, chicken broth should go on fridge shelf 4 (bottom). They like to put cheese and creams on fridge shelf 1 (top), while fruits and vegetables should be placed on fridge shelf 3. Condiments are usually placed in different door shelves based on their usage and size."
+}
+Error in cleaning preference response for scene 5bd4e6f7c4f8e900013ae526_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0, skipping.
+Processing fold: fold_5
+Number of users passing ACQ: 81
+Number of scenes: 602
+Done processing scene 63c40b98533b26ec941005c3_F_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 630b78df7445f304dfb7d50c_F_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 630b78df7445f304dfb7d50c_A_gperm_0_gnum8_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 63c40b98533b26ec941005c3_B_gperm_0_gnum4_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Scene 5f5550685e8dec926f63cef1_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0 already processed, skipping...
+Done processing scene 63c40b98533b26ec941005c3_A_gperm_0_gnum8_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 630b78df7445f304dfb7d50c_B_gperm_0_gnum4_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 63c40b98533b26ec941005c3_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Raw response: ```json
+{
+  "reasoning": "Based on the provided demonstrations, it is observed that small personal items like sunglasses, necklace, spectacles, and wallet are kept in Dresser Right Drawer 1 (top). This is likely because these items are frequently used and keeping them in the top drawer makes them easily accessible. Items that do not fit in a closed drawer or are decorative in nature such as a photo frame, plant, decor vase, and flower vase are kept on the dresser table surface. Items that can stand independently and are used regularly like the tissue box, alarm clock, and radio are kept in the open shelves (middle and bottom), possibly for easy visibility and access. Lastly, one-off items like sanitizing wipes, crackers, and hat that do not fit into the above categories have varied locations like Dresser Right Drawer 4 (bottom) and Dresser Top Shelf (open).",
+  "preference": "Small personal items, preferably often used, should be kept in Dresser Right Drawer 1 (top) for easy access. The dresser table surface is designated for items that can't fit in a closed drawer or are decorative. The open shelves (middle and bottom) are best for items that can stand independently and are used regularly as they can be easily seen and accessed. Any other items that do not fit into the above categories can be placed in Dresser Right Drawer 4 (bottom) or on the Dresser Top Shelf (open)."
+}
+```
+Error in cleaning preference response for scene 5e2c9026f4a3052be159c494_C_gperm_0_gnum4_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0, skipping.
+Done processing scene 630b78df7445f304dfb7d50c_F_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Scene 5f5550685e8dec926f63cef1_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 630b78df7445f304dfb7d50c_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Surface 'shelf 1' not found in scene, skipping.
+Surface 'shelf 1' not found in scene, skipping.
+Surface 'shelf 1' not found in scene, skipping.
+Following placements did not have matching unplaced objects: [('photo frame', 'shelf 1'), ('photo frame', 'shelf 2'), ('magazine', 'shelf 1')].
+Scene still has unplaced objects: ['photo frame', 'magazine', 'photo frame']
+Done processing scene 63c40b98533b26ec941005c3_F_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 63c40b98533b26ec941005c3_A_gperm_0_gnum4_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 630b78df7445f304dfb7d50c_B_gperm_0_gnum8_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 630b78df7445f304dfb7d50c_A_gperm_0_gnum4_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 63c40b98533b26ec941005c3_B_gperm_0_gnum8_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5e2c9026f4a3052be159c494_A_gperm_0_gnum4_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 63c40b98533b26ec941005c3_E_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Scene 5f5550685e8dec926f63cef1_A_gperm_0_gnum2_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 630b78df7445f304dfb7d50c_E_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 63c40b98533b26ec941005c3_C_gperm_0_gnum4_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Raw response: ```json
+{
+  "reasoning": "The user prefers to keep different items segregated based on the type of item, and has allocated specific locations on the dresser for these categories. I noticed that smaller items, such as sunglasses, spectacles, necklace, and wallet are always located in the top right drawer of the dresser. Everyday required items, such as the tissue box, are placed on the middle open shelf. Different ornamental items, like a lamp, plant, decor vase, statue, photo frame, and flower vase are placed on the dresser table surface. Hat is consistently placed on the top open shelf of the dresser. Larger items, such as alarm clock, crackers, and radio are found in the bottom shelf or bottom drawer of the dresser. But, as crackers were later found in the bottom drawer, this location may be a secondary choice or used when the bottom shelf is occupied.",
+  "preference": "I prefer to keep smaller items, such as sunglasses, spectacles, necklace, and wallet in the top right drawer of the dresser. Everyday items, like tissue boxes, should always be placed on the middle open shelf. I like to keep ornamental items on the table surface of the dresser. Hats go on the top open shelf. Larger items, such as alarm clocks or packed food items like crackers, should initially be placed on the bottom open shelf, but if that's occupied, they can go in the bottom drawer instead."
+}
+```
+Error in cleaning preference response for scene 5e2c9026f4a3052be159c494_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0, skipping.
+Done processing scene 630b78df7445f304dfb7d50c_C_gperm_0_gnum4_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Scene 5f5550685e8dec926f63cef1_D_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 5e2c9026f4a3052be159c494_B_gperm_0_gnum4_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 630b78df7445f304dfb7d50c_E_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 63c40b98533b26ec941005c3_E_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Scene 5f5550685e8dec926f63cef1_B_gperm_0_gnum2_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 5e2c9026f4a3052be159c494_F_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 630b78df7445f304dfb7d50c_C_gperm_0_gnum8_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Scene 5f5550685e8dec926f63cef1_D_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 63c40b98533b26ec941005c3_C_gperm_0_gnum8_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Scene 5f5550685e8dec926f63cef1_F_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0 already processed, skipping...
+Scene 5f5550685e8dec926f63cef1_D_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 630b78df7445f304dfb7d50c_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Scene 5f5550685e8dec926f63cef1_F_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0 already processed, skipping...
+Done processing scene 63c40b98533b26ec941005c3_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Raw response: ```json
+{
+  "reasoning": "After analyzing the demonstrations, I've noticed that smaller and personal items consistently appear in the top right drawer of the dresser. These items vary, including glasses, a necklace, and a wallet, implying a preference for storing personal items, rather than a specific item, in this location. Additionally, there is a recurring pattern of an item being placed in the open middle shelf of the dresser. This item changes, but a tissue box is frequently placed there, suggesting a preference for items that may require easy access. Lastly, items of various types are placed on the table surface of the dresser, implying the user's aesthetic preference as these items seem to contribute to the room's decor.",
+  "preference": "Personal items, such as glasses and jewelry, should be placed in the top right drawer of the dresser. Items that need to be accessed frequently, like a tissue box, should go on the open middle shelf. Lastly, decorative items can be left on the table surface of the dresser."
+}
+```
+Error in cleaning preference response for scene 5e2c9026f4a3052be159c494_D_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0, skipping.
+Scene 5f5550685e8dec926f63cef1_A_gperm_0_gnum4_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 5e2c9026f4a3052be159c494_A_gperm_0_gnum2_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Scene 5f5550685e8dec926f63cef1_B_gperm_0_gnum8_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Scene 5f5550685e8dec926f63cef1_F_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0 already processed, skipping...
+Done processing scene 5e2c9026f4a3052be159c494_F_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 63c40b98533b26ec941005c3_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Scene 5f5550685e8dec926f63cef1_B_gperm_0_gnum4_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 630b78df7445f304dfb7d50c_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Scene 5f5550685e8dec926f63cef1_A_gperm_0_gnum8_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 5e2c9026f4a3052be159c494_B_gperm_0_gnum2_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 630b78df7445f304dfb7d50c_B_gperm_0_gnum2_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 5e2c9026f4a3052be159c494_E_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0.
+Done processing scene 63c40b98533b26ec941005c3_B_gperm_0_gnum2_dpermA-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Scene 5f5550685e8dec926f63cef1_E_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0 already processed, skipping...
+Done processing scene 63c40b98533b26ec941005c3_D_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 630b78df7445f304dfb7d50c_F_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Done processing scene 630b78df7445f304dfb7d50c_D_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 63c40b98533b26ec941005c3_F_gperm_0_gnum2_dpermA-0-0_B-0-0_C-0-0_D-0-0_E-0-0.
+Scene 5f5550685e8dec926f63cef1_C_gperm_0_gnum8_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Scene 5f5550685e8dec926f63cef1_E_gperm_0_gnum8_dpermA-0-0_B-0-0_C-0-0_D-0-0_F-0-0 already processed, skipping...
+Done processing scene 630b78df7445f304dfb7d50c_A_gperm_0_gnum2_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 63c40b98533b26ec941005c3_A_gperm_0_gnum2_dpermB-0-0_C-0-0_D-0-0_E-0-0_F-0-0.
+Done processing scene 630b78df7445f304dfb7d50c_D_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Scene 5f5550685e8dec926f63cef1_C_gperm_0_gnum4_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0 already processed, skipping...
+Done processing scene 63c40b98533b26ec941005c3_D_gperm_0_gnum4_dpermA-0-0_B-0-0_C-0-0_E-0-0_F-0-0.
+Done processing scene 5e2c9026f4a3052be159c494_C_gperm_0_gnum2_dpermA-0-0_B-0-0_D-0-0_E-0-0_F-0-0.
+Done processing all scenes.
+Done

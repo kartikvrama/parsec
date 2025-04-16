@@ -1,0 +1,872 @@
+Number of users passing ACQ: 81
+Number of users eligible for the dataset: 72
+Loading and filtering glossary...
+Filtered glossary to 12264023 examples.
+Created /coc/flash5/kvr6/data/declutter_user_data/folds-2024-07-20
+Generating folds for in-distribution preference evaluation...
+IN-DISTRIBUTION FOLDS
+test_labels_per_user
+User 637058f9e7a26c452d1cc49a: 6 folds
+User 62b0b9d60841bfa66838f436: 6 folds
+User 5a792c898fe2dc0001058c3b: 6 folds
+User 615e1782e969d4939045c54f: 6 folds
+User 5c8ec999bb6a3c00014acf5f: 6 folds
+User 5d4fc7b44ec90b0017218453: 6 folds
+User 5f5353ff017c5965165df065: 6 folds
+User 63052f20afc39e87110eb83e: 6 folds
+User 614f64af286f5a5cc8fa849d: 6 folds
+User 5e8aa39f3dabf475987ddaf3: 6 folds
+User 649f525cce87cb12c95ea642: 6 folds
+User 5c65739723f6300001380c2c: 6 folds
+User 5f207c8b6c71a1140fb70df5: 6 folds
+User 5f9ded175aa86e381f394e74: 4 folds
+User 64d51bcdead49bdcdb2ddc37: 6 folds
+User 63d41c2627381fc53af61e58: 6 folds
+User 631685f7d6d6fcb196e87f0a: 6 folds
+User 6155b9c45f96867d9d9631fd: 6 folds
+User 630386f64c5bbd56ab1c3b0f: 6 folds
+User 610631ba860f21ac066946cf: 6 folds
+User 5d1b4ec634783e0001336019: 6 folds
+User 5dd446ab87c1fd43fbb49aa1: 6 folds
+User 5eea537ffd89d01283ffac22: 6 folds
+User 63d2d8a78197f0f6168543b1: 5 folds
+User 63d5a05179cf91a6e6a652cb: 6 folds
+User 60d9faa609c8dcb9e5e05481: 6 folds
+User 5d23460ad4c57900192b129c: 6 folds
+User 644087beeb531ba7b10ae320: 6 folds
+User 5cdf4dd618f742000174cd3f: 6 folds
+User 5842eb2904e7550001a06b14: 6 folds
+User 63c40b98533b26ec941005c3: 6 folds
+User 60fc9ce95a59b3400b38e2a7: 6 folds
+User 64dd3e11a1123030a614608a: 6 folds
+User 5652186a812a980012fe65ce: 6 folds
+User 616dabffda7757926ea7e84d: 6 folds
+User 5e3ae8e5ebfb032f9058ef33: 6 folds
+User 5be8a1701664db0001d804f8: 6 folds
+User 5f07b62e0e3ac43ea9d490c6: 6 folds
+User 63d7ce77f6d6c8067823d746: 6 folds
+User 611c2ed2d1d6a90e05ceeb30: 6 folds
+User 5a907927873cda0001dc4719: 6 folds
+User 5d5f0b2e0e71190019c643f7: 6 folds
+User 5f9f0e68b9f7035144cef331: 6 folds
+User 5c4eb384c9c8550001720152: 6 folds
+User 5c5a19299404f10001ff8cbf: 6 folds
+User 6121aaee9d29f0c6e3bc8bea: 6 folds
+User 5fec06ae197628d566cdc782: 6 folds
+User 605fe9680cac2ea943d411ec: 6 folds
+User 5bd4e6f7c4f8e900013ae526: 6 folds
+User 5d278e6a6f7c660019b56196: 6 folds
+User 5e2c9026f4a3052be159c494: 6 folds
+User 5e0571b7e297d5fa932cf415: 6 folds
+User 5b6db9e0580154000153cc64: 6 folds
+User 5f5550685e8dec926f63cef1: 6 folds
+User 630b78df7445f304dfb7d50c: 6 folds
+User 588021688e1ad5000142dfdf: 5 folds
+User 6102c81e911700cf7ba5f6bd: 6 folds
+User 56cb15ad64c068000b4d7ca5: 6 folds
+User 6111c4865701e1ba367af3e3: 6 folds
+User 5b566435d8348500012d2d65: 6 folds
+User 610d3c0535871d8bfa25107f: 6 folds
+User 5fd53e2d08163d37f7cb72f6: 6 folds
+User 63df06a8c5ac5f3c6bf77e6f: 6 folds
+User 5d6ac7e17658a1001a8c63b2: 6 folds
+User 615d051e2366aeb051acb734: 6 folds
+User 611ff6cc935b6de3fff0b896: 6 folds
+User 60fcb7afde5ab78707e377d6: 6 folds
+User 565a3d24c51d430005875042: 6 folds
+User 63e576170eb086a90644efb4: 6 folds
+User 627963ff086cb4a8ec377869: 6 folds
+User 5c4a428161c51f0001e96b3f: 6 folds
+User 6167abbd7db521535e811eb0: 6 folds
+----
+val_labels_per_user
+User 637058f9e7a26c452d1cc49a: 6 folds
+User 62b0b9d60841bfa66838f436: 6 folds
+User 5a792c898fe2dc0001058c3b: 6 folds
+User 615e1782e969d4939045c54f: 6 folds
+User 5c8ec999bb6a3c00014acf5f: 6 folds
+User 5d4fc7b44ec90b0017218453: 6 folds
+User 5f5353ff017c5965165df065: 6 folds
+User 63052f20afc39e87110eb83e: 6 folds
+User 614f64af286f5a5cc8fa849d: 6 folds
+User 5e8aa39f3dabf475987ddaf3: 6 folds
+User 649f525cce87cb12c95ea642: 6 folds
+User 5c65739723f6300001380c2c: 6 folds
+User 5f207c8b6c71a1140fb70df5: 6 folds
+User 5f9ded175aa86e381f394e74: 4 folds
+User 64d51bcdead49bdcdb2ddc37: 6 folds
+User 63d41c2627381fc53af61e58: 6 folds
+User 631685f7d6d6fcb196e87f0a: 6 folds
+User 6155b9c45f96867d9d9631fd: 6 folds
+User 630386f64c5bbd56ab1c3b0f: 6 folds
+User 610631ba860f21ac066946cf: 6 folds
+User 5d1b4ec634783e0001336019: 6 folds
+User 5dd446ab87c1fd43fbb49aa1: 6 folds
+User 5eea537ffd89d01283ffac22: 6 folds
+User 63d2d8a78197f0f6168543b1: 5 folds
+User 63d5a05179cf91a6e6a652cb: 6 folds
+User 60d9faa609c8dcb9e5e05481: 6 folds
+User 5d23460ad4c57900192b129c: 6 folds
+User 644087beeb531ba7b10ae320: 6 folds
+User 5cdf4dd618f742000174cd3f: 6 folds
+User 5842eb2904e7550001a06b14: 6 folds
+User 63c40b98533b26ec941005c3: 6 folds
+User 60fc9ce95a59b3400b38e2a7: 6 folds
+User 64dd3e11a1123030a614608a: 6 folds
+User 5652186a812a980012fe65ce: 6 folds
+User 616dabffda7757926ea7e84d: 6 folds
+User 5e3ae8e5ebfb032f9058ef33: 6 folds
+User 5be8a1701664db0001d804f8: 6 folds
+User 5f07b62e0e3ac43ea9d490c6: 6 folds
+User 63d7ce77f6d6c8067823d746: 6 folds
+User 611c2ed2d1d6a90e05ceeb30: 6 folds
+User 5a907927873cda0001dc4719: 6 folds
+User 5d5f0b2e0e71190019c643f7: 6 folds
+User 5f9f0e68b9f7035144cef331: 6 folds
+User 5c4eb384c9c8550001720152: 6 folds
+User 5c5a19299404f10001ff8cbf: 6 folds
+User 6121aaee9d29f0c6e3bc8bea: 6 folds
+User 5fec06ae197628d566cdc782: 6 folds
+User 605fe9680cac2ea943d411ec: 6 folds
+User 5bd4e6f7c4f8e900013ae526: 6 folds
+User 5d278e6a6f7c660019b56196: 6 folds
+User 5e2c9026f4a3052be159c494: 6 folds
+User 5e0571b7e297d5fa932cf415: 6 folds
+User 5b6db9e0580154000153cc64: 6 folds
+User 5f5550685e8dec926f63cef1: 6 folds
+User 630b78df7445f304dfb7d50c: 6 folds
+User 588021688e1ad5000142dfdf: 5 folds
+User 6102c81e911700cf7ba5f6bd: 6 folds
+User 56cb15ad64c068000b4d7ca5: 6 folds
+User 6111c4865701e1ba367af3e3: 6 folds
+User 5b566435d8348500012d2d65: 6 folds
+User 610d3c0535871d8bfa25107f: 6 folds
+User 5fd53e2d08163d37f7cb72f6: 6 folds
+User 63df06a8c5ac5f3c6bf77e6f: 6 folds
+User 5d6ac7e17658a1001a8c63b2: 6 folds
+User 615d051e2366aeb051acb734: 6 folds
+User 611ff6cc935b6de3fff0b896: 6 folds
+User 60fcb7afde5ab78707e377d6: 6 folds
+User 565a3d24c51d430005875042: 6 folds
+User 63e576170eb086a90644efb4: 6 folds
+User 627963ff086cb4a8ec377869: 6 folds
+User 5c4a428161c51f0001e96b3f: 6 folds
+User 6167abbd7db521535e811eb0: 6 folds
+----
+Fold 1
+Split: train
+Number of examples with 0 demonstrations: 2275
+Number of examples with 1 demonstrations: 6754
+Number of examples with 2 demonstrations: 6700
+Number of examples with 3 demonstrations: 2221
+Number of examples with 4 demonstrations: 0
+Number of examples with 5 demonstrations: 0
+TOTAL Number of examples: 17950
+----
+Split: val
+Number of examples with 0 demonstrations: 581
+Number of examples with 1 demonstrations: 2298
+Number of examples with 2 demonstrations: 3415
+Number of examples with 3 demonstrations: 2260
+Number of examples with 4 demonstrations: 562
+Number of examples with 5 demonstrations: 0
+TOTAL Number of examples: 9116
+----
+Split: test
+Number of examples with 0 demonstrations: 651
+Number of examples with 1 demonstrations: 3218
+Number of examples with 2 demonstrations: 6372
+Number of examples with 3 demonstrations: 6318
+Number of examples with 4 demonstrations: 3137
+Number of examples with 5 demonstrations: 624
+TOTAL Number of examples: 20320
+----
+Fold 2
+Split: train
+Number of examples with 0 demonstrations: 2335
+Number of examples with 1 demonstrations: 6923
+Number of examples with 2 demonstrations: 6861
+Number of examples with 3 demonstrations: 2273
+Number of examples with 4 demonstrations: 0
+Number of examples with 5 demonstrations: 0
+TOTAL Number of examples: 18392
+----
+Split: val
+Number of examples with 0 demonstrations: 591
+Number of examples with 1 demonstrations: 2338
+Number of examples with 2 demonstrations: 3475
+Number of examples with 3 demonstrations: 2300
+Number of examples with 4 demonstrations: 572
+Number of examples with 5 demonstrations: 0
+TOTAL Number of examples: 9276
+----
+Split: test
+Number of examples with 0 demonstrations: 581
+Number of examples with 1 demonstrations: 2879
+Number of examples with 2 demonstrations: 5713
+Number of examples with 3 demonstrations: 5675
+Number of examples with 4 demonstrations: 2822
+Number of examples with 5 demonstrations: 562
+TOTAL Number of examples: 18232
+----
+Fold 3
+Split: train
+Number of examples with 0 demonstrations: 2352
+Number of examples with 1 demonstrations: 6979
+Number of examples with 2 demonstrations: 6919
+Number of examples with 3 demonstrations: 2292
+Number of examples with 4 demonstrations: 0
+Number of examples with 5 demonstrations: 0
+TOTAL Number of examples: 18542
+----
+Split: val
+Number of examples with 0 demonstrations: 576
+Number of examples with 1 demonstrations: 2273
+Number of examples with 2 demonstrations: 3373
+Number of examples with 3 demonstrations: 2231
+Number of examples with 4 demonstrations: 555
+Number of examples with 5 demonstrations: 0
+TOTAL Number of examples: 9008
+----
+Split: test
+Number of examples with 0 demonstrations: 579
+Number of examples with 1 demonstrations: 2869
+Number of examples with 2 demonstrations: 5693
+Number of examples with 3 demonstrations: 5655
+Number of examples with 4 demonstrations: 2812
+Number of examples with 5 demonstrations: 560
+TOTAL Number of examples: 18168
+----
+Fold 4
+Split: train
+Number of examples with 0 demonstrations: 2365
+Number of examples with 1 demonstrations: 7020
+Number of examples with 2 demonstrations: 6962
+Number of examples with 3 demonstrations: 2307
+Number of examples with 4 demonstrations: 0
+Number of examples with 5 demonstrations: 0
+TOTAL Number of examples: 18654
+----
+Split: val
+Number of examples with 0 demonstrations: 565
+Number of examples with 1 demonstrations: 2232
+Number of examples with 2 demonstrations: 3313
+Number of examples with 3 demonstrations: 2190
+Number of examples with 4 demonstrations: 544
+Number of examples with 5 demonstrations: 0
+TOTAL Number of examples: 8844
+----
+Split: test
+Number of examples with 0 demonstrations: 577
+Number of examples with 1 demonstrations: 2854
+Number of examples with 2 demonstrations: 5656
+Number of examples with 3 demonstrations: 5614
+Number of examples with 4 demonstrations: 2791
+Number of examples with 5 demonstrations: 556
+TOTAL Number of examples: 18048
+----
+Fold 5
+Split: train
+Number of examples with 0 demonstrations: 2319
+Number of examples with 1 demonstrations: 6917
+Number of examples with 2 demonstrations: 6877
+Number of examples with 3 demonstrations: 2279
+Number of examples with 4 demonstrations: 0
+Number of examples with 5 demonstrations: 0
+TOTAL Number of examples: 18392
+----
+Split: val
+Number of examples with 0 demonstrations: 586
+Number of examples with 1 demonstrations: 2332
+Number of examples with 2 demonstrations: 3480
+Number of examples with 3 demonstrations: 2308
+Number of examples with 4 demonstrations: 574
+Number of examples with 5 demonstrations: 0
+TOTAL Number of examples: 9280
+----
+Split: test
+Number of examples with 0 demonstrations: 568
+Number of examples with 1 demonstrations: 2826
+Number of examples with 2 demonstrations: 5624
+Number of examples with 3 demonstrations: 5596
+Number of examples with 4 demonstrations: 2784
+Number of examples with 5 demonstrations: 554
+TOTAL Number of examples: 17952
+----
+Fold 6
+Split: train
+Number of examples with 0 demonstrations: 2306
+Number of examples with 1 demonstrations: 6918
+Number of examples with 2 demonstrations: 6918
+Number of examples with 3 demonstrations: 2306
+Number of examples with 4 demonstrations: 0
+Number of examples with 5 demonstrations: 0
+TOTAL Number of examples: 18448
+----
+Split: val
+Number of examples with 0 demonstrations: 550
+Number of examples with 1 demonstrations: 2200
+Number of examples with 2 demonstrations: 3300
+Number of examples with 3 demonstrations: 2200
+Number of examples with 4 demonstrations: 550
+Number of examples with 5 demonstrations: 0
+TOTAL Number of examples: 8800
+----
+Split: test
+Number of examples with 0 demonstrations: 551
+Number of examples with 1 demonstrations: 2755
+Number of examples with 2 demonstrations: 5510
+Number of examples with 3 demonstrations: 5510
+Number of examples with 4 demonstrations: 2755
+Number of examples with 5 demonstrations: 551
+TOTAL Number of examples: 17632
+----
+Generating folds for novel user preference evaluation...
+5 users for kitchen/1
+4 users for kitchen/2
+5 users for kitchen/3
+5 users for bathroom/1
+4 users for bathroom/2
+5 users for bathroom/3
+4 users for fridge/1
+5 users for fridge/2
+5 users for fridge/3
+5 users for bookshelf/1
+5 users for bookshelf/2
+5 users for bookshelf/3
+5 users for dresser/1
+5 users for dresser/2
+5 users for dresser/3
+OUT-DISTRIBUTION FOLDS
+test_users
+Fold 1: 15 users
+Fold 2: 15 users
+Fold 3: 15 users
+Fold 4: 15 users
+Fold 5: 12 users
+----
+val_users
+Fold 1: 6121aaee9d29f0c6e3bc8bea
+Fold 2: 5c5a19299404f10001ff8cbf
+Fold 3: 6121aaee9d29f0c6e3bc8bea
+Fold 4: 6121aaee9d29f0c6e3bc8bea
+Fold 5: 6121aaee9d29f0c6e3bc8bea
+----
+Fold 1
+Split: train
+Number of examples with 0 demonstrations: 2671
+Number of examples with 1 demonstrations: 13267
+Number of examples with 2 demonstrations: 26392
+Number of examples with 3 demonstrations: 26284
+Number of examples with 4 demonstrations: 13105
+Number of examples with 5 demonstrations: 2617
+TOTAL Number of examples: 84336
+----
+Split: val
+Number of examples with 0 demonstrations: 95
+Number of examples with 1 demonstrations: 475
+Number of examples with 2 demonstrations: 950
+Number of examples with 3 demonstrations: 950
+Number of examples with 4 demonstrations: 475
+Number of examples with 5 demonstrations: 95
+TOTAL Number of examples: 3040
+----
+Split: test
+Number of examples with 0 demonstrations: 741
+Number of examples with 1 demonstrations: 3659
+Number of examples with 2 demonstrations: 7226
+Number of examples with 3 demonstrations: 7134
+Number of examples with 4 demonstrations: 3521
+Number of examples with 5 demonstrations: 695
+TOTAL Number of examples: 22976
+----
+Fold 2
+Split: train
+Number of examples with 0 demonstrations: 2727
+Number of examples with 1 demonstrations: 13501
+Number of examples with 2 demonstrations: 26768
+Number of examples with 3 demonstrations: 26568
+Number of examples with 4 demonstrations: 13201
+Number of examples with 5 demonstrations: 2627
+TOTAL Number of examples: 85392
+----
+Split: val
+Number of examples with 0 demonstrations: 43
+Number of examples with 1 demonstrations: 215
+Number of examples with 2 demonstrations: 430
+Number of examples with 3 demonstrations: 430
+Number of examples with 4 demonstrations: 215
+Number of examples with 5 demonstrations: 43
+TOTAL Number of examples: 1376
+----
+Split: test
+Number of examples with 0 demonstrations: 737
+Number of examples with 1 demonstrations: 3685
+Number of examples with 2 demonstrations: 7370
+Number of examples with 3 demonstrations: 7370
+Number of examples with 4 demonstrations: 3685
+Number of examples with 5 demonstrations: 737
+TOTAL Number of examples: 23584
+----
+Fold 3
+Split: train
+Number of examples with 0 demonstrations: 2701
+Number of examples with 1 demonstrations: 13371
+Number of examples with 2 demonstrations: 26508
+Number of examples with 3 demonstrations: 26308
+Number of examples with 4 demonstrations: 13071
+Number of examples with 5 demonstrations: 2601
+TOTAL Number of examples: 84560
+----
+Split: val
+Number of examples with 0 demonstrations: 95
+Number of examples with 1 demonstrations: 475
+Number of examples with 2 demonstrations: 950
+Number of examples with 3 demonstrations: 950
+Number of examples with 4 demonstrations: 475
+Number of examples with 5 demonstrations: 95
+TOTAL Number of examples: 3040
+----
+Split: test
+Number of examples with 0 demonstrations: 711
+Number of examples with 1 demonstrations: 3555
+Number of examples with 2 demonstrations: 7110
+Number of examples with 3 demonstrations: 7110
+Number of examples with 4 demonstrations: 3555
+Number of examples with 5 demonstrations: 711
+TOTAL Number of examples: 22752
+----
+Fold 4
+Split: train
+Number of examples with 0 demonstrations: 2696
+Number of examples with 1 demonstrations: 13414
+Number of examples with 2 demonstrations: 26696
+Number of examples with 3 demonstrations: 26564
+Number of examples with 4 demonstrations: 13216
+Number of examples with 5 demonstrations: 2630
+TOTAL Number of examples: 85216
+----
+Split: val
+Number of examples with 0 demonstrations: 95
+Number of examples with 1 demonstrations: 475
+Number of examples with 2 demonstrations: 950
+Number of examples with 3 demonstrations: 950
+Number of examples with 4 demonstrations: 475
+Number of examples with 5 demonstrations: 95
+TOTAL Number of examples: 3040
+----
+Split: test
+Number of examples with 0 demonstrations: 716
+Number of examples with 1 demonstrations: 3512
+Number of examples with 2 demonstrations: 6922
+Number of examples with 3 demonstrations: 6854
+Number of examples with 4 demonstrations: 3410
+Number of examples with 5 demonstrations: 682
+TOTAL Number of examples: 22096
+----
+Fold 5
+Split: train
+Number of examples with 0 demonstrations: 2810
+Number of examples with 1 demonstrations: 13936
+Number of examples with 2 demonstrations: 27678
+Number of examples with 3 demonstrations: 27518
+Number of examples with 4 demonstrations: 13696
+Number of examples with 5 demonstrations: 2730
+TOTAL Number of examples: 88368
+----
+Split: val
+Number of examples with 0 demonstrations: 95
+Number of examples with 1 demonstrations: 475
+Number of examples with 2 demonstrations: 950
+Number of examples with 3 demonstrations: 950
+Number of examples with 4 demonstrations: 475
+Number of examples with 5 demonstrations: 95
+TOTAL Number of examples: 3040
+----
+Split: test
+Number of examples with 0 demonstrations: 602
+Number of examples with 1 demonstrations: 2990
+Number of examples with 2 demonstrations: 5940
+Number of examples with 3 demonstrations: 5900
+Number of examples with 4 demonstrations: 2930
+Number of examples with 5 demonstrations: 582
+TOTAL Number of examples: 18944
+----
+Generating folds for novel environment preference evaluation...
+UNSEEN ENVIRONMENT FOLDS
+test_users
+Fold 1: 24 users
+Fold 2: 23 users
+Fold 3: 25 users
+----
+val_users
+Fold 1: 6121aaee9d29f0c6e3bc8bea
+Fold 2: 6121aaee9d29f0c6e3bc8bea
+Fold 3: 5c5a19299404f10001ff8cbf
+----
+Fold 1
+Split: train
+Number of examples with 0 demonstrations: 2182
+Number of examples with 1 demonstrations: 10776
+Number of examples with 2 demonstrations: 21318
+Number of examples with 3 demonstrations: 21118
+Number of examples with 4 demonstrations: 10476
+Number of examples with 5 demonstrations: 2082
+TOTAL Number of examples: 67952
+----
+Split: val
+Number of examples with 0 demonstrations: 95
+Number of examples with 1 demonstrations: 475
+Number of examples with 2 demonstrations: 950
+Number of examples with 3 demonstrations: 950
+Number of examples with 4 demonstrations: 475
+Number of examples with 5 demonstrations: 95
+TOTAL Number of examples: 3040
+----
+Split: test
+Number of examples with 0 demonstrations: 1230
+Number of examples with 1 demonstrations: 6150
+Number of examples with 2 demonstrations: 12300
+Number of examples with 3 demonstrations: 12300
+Number of examples with 4 demonstrations: 6150
+Number of examples with 5 demonstrations: 1230
+TOTAL Number of examples: 39360
+----
+Fold 2
+Split: train
+Number of examples with 0 demonstrations: 2266
+Number of examples with 1 demonstrations: 11196
+Number of examples with 2 demonstrations: 22158
+Number of examples with 3 demonstrations: 21958
+Number of examples with 4 demonstrations: 10896
+Number of examples with 5 demonstrations: 2166
+TOTAL Number of examples: 70640
+----
+Split: val
+Number of examples with 0 demonstrations: 95
+Number of examples with 1 demonstrations: 475
+Number of examples with 2 demonstrations: 950
+Number of examples with 3 demonstrations: 950
+Number of examples with 4 demonstrations: 475
+Number of examples with 5 demonstrations: 95
+TOTAL Number of examples: 3040
+----
+Split: test
+Number of examples with 0 demonstrations: 1146
+Number of examples with 1 demonstrations: 5730
+Number of examples with 2 demonstrations: 11460
+Number of examples with 3 demonstrations: 11460
+Number of examples with 4 demonstrations: 5730
+Number of examples with 5 demonstrations: 1146
+TOTAL Number of examples: 36672
+----
+Fold 3
+Split: train
+Number of examples with 0 demonstrations: 2333
+Number of examples with 1 demonstrations: 11665
+Number of examples with 2 demonstrations: 23330
+Number of examples with 3 demonstrations: 23330
+Number of examples with 4 demonstrations: 11665
+Number of examples with 5 demonstrations: 2333
+TOTAL Number of examples: 74656
+----
+Split: val
+Number of examples with 0 demonstrations: 43
+Number of examples with 1 demonstrations: 215
+Number of examples with 2 demonstrations: 430
+Number of examples with 3 demonstrations: 430
+Number of examples with 4 demonstrations: 215
+Number of examples with 5 demonstrations: 43
+TOTAL Number of examples: 1376
+----
+Split: test
+Number of examples with 0 demonstrations: 1131
+Number of examples with 1 demonstrations: 5521
+Number of examples with 2 demonstrations: 10808
+Number of examples with 3 demonstrations: 10608
+Number of examples with 4 demonstrations: 5221
+Number of examples with 5 demonstrations: 1031
+TOTAL Number of examples: 34320
+----
+WARNING: Empty arrangement for 61005133f83578f7fdcb2a59 A
+WARNING: Empty arrangement for 61005133f83578f7fdcb2a59 B
+WARNING: Empty arrangement for 61005133f83578f7fdcb2a59 C
+WARNING: Empty arrangement for 61005133f83578f7fdcb2a59 D
+WARNING: Empty arrangement for 61005133f83578f7fdcb2a59 E
+WARNING: Empty arrangement for 61005133f83578f7fdcb2a59 F
+UNSEEN OBJECT FOLDS
+test_objects
+Fold 1: 11 users
+Fold 2: 11 users
+Fold 3: 11 users
+Fold 4: 10 users
+Fold 5: 10 users
+Fold 6: 10 users
+Fold 7: 10 users
+Fold 8: 10 users
+Fold 9: 10 users
+----
+val_objects
+Fold 1: 1 users
+Fold 2: 1 users
+Fold 3: 1 users
+Fold 4: 1 users
+Fold 5: 1 users
+Fold 6: 1 users
+Fold 7: 1 users
+Fold 8: 1 users
+Fold 9: 1 users
+----
+Fold 1
+Split: train
+Number of examples with 0 demonstrations: 1409
+Number of examples with 1 demonstrations: 3350
+Number of examples with 2 demonstrations: 3322
+Number of examples with 3 demonstrations: 1556
+Number of examples with 4 demonstrations: 282
+Number of examples with 5 demonstrations: 0
+TOTAL Number of examples: 9919
+----
+Split: val
+Number of examples with 0 demonstrations: 114
+Number of examples with 1 demonstrations: 670
+Number of examples with 2 demonstrations: 1335
+Number of examples with 3 demonstrations: 1296
+Number of examples with 4 demonstrations: 629
+Number of examples with 5 demonstrations: 122
+TOTAL Number of examples: 4166
+----
+Split: test
+Number of examples with 0 demonstrations: 1984
+Number of examples with 1 demonstrations: 13381
+Number of examples with 2 demonstrations: 29911
+Number of examples with 3 demonstrations: 31516
+Number of examples with 4 demonstrations: 16190
+Number of examples with 5 demonstrations: 3285
+TOTAL Number of examples: 96267
+----
+Fold 2
+Split: train
+Number of examples with 0 demonstrations: 1307
+Number of examples with 1 demonstrations: 2536
+Number of examples with 2 demonstrations: 2095
+Number of examples with 3 demonstrations: 1101
+Number of examples with 4 demonstrations: 393
+Number of examples with 5 demonstrations: 69
+TOTAL Number of examples: 7501
+----
+Split: val
+Number of examples with 0 demonstrations: 130
+Number of examples with 1 demonstrations: 581
+Number of examples with 2 demonstrations: 855
+Number of examples with 3 demonstrations: 509
+Number of examples with 4 demonstrations: 106
+Number of examples with 5 demonstrations: 0
+TOTAL Number of examples: 2181
+----
+Split: test
+Number of examples with 0 demonstrations: 2070
+Number of examples with 1 demonstrations: 14284
+Number of examples with 2 demonstrations: 31618
+Number of examples with 3 demonstrations: 32758
+Number of examples with 4 demonstrations: 16602
+Number of examples with 5 demonstrations: 3338
+TOTAL Number of examples: 100670
+----
+Fold 3
+Split: train
+Number of examples with 0 demonstrations: 1574
+Number of examples with 1 demonstrations: 3941
+Number of examples with 2 demonstrations: 4129
+Number of examples with 3 demonstrations: 2256
+Number of examples with 4 demonstrations: 633
+Number of examples with 5 demonstrations: 77
+TOTAL Number of examples: 12610
+----
+Split: val
+Number of examples with 0 demonstrations: 165
+Number of examples with 1 demonstrations: 804
+Number of examples with 2 demonstrations: 1136
+Number of examples with 3 demonstrations: 701
+Number of examples with 4 demonstrations: 234
+Number of examples with 5 demonstrations: 42
+TOTAL Number of examples: 3082
+----
+Split: test
+Number of examples with 0 demonstrations: 1768
+Number of examples with 1 demonstrations: 12656
+Number of examples with 2 demonstrations: 29303
+Number of examples with 3 demonstrations: 31411
+Number of examples with 4 demonstrations: 16234
+Number of examples with 5 demonstrations: 3288
+TOTAL Number of examples: 94660
+----
+Fold 4
+Split: train
+Number of examples with 0 demonstrations: 1749
+Number of examples with 1 demonstrations: 5234
+Number of examples with 2 demonstrations: 6760
+Number of examples with 3 demonstrations: 4609
+Number of examples with 4 demonstrations: 1645
+Number of examples with 5 demonstrations: 245
+TOTAL Number of examples: 20242
+----
+Split: val
+Number of examples with 0 demonstrations: 255
+Number of examples with 1 demonstrations: 1766
+Number of examples with 2 demonstrations: 4053
+Number of examples with 3 demonstrations: 4193
+Number of examples with 4 demonstrations: 2070
+Number of examples with 5 demonstrations: 406
+TOTAL Number of examples: 12743
+----
+Split: test
+Number of examples with 0 demonstrations: 1503
+Number of examples with 1 demonstrations: 10401
+Number of examples with 2 demonstrations: 23755
+Number of examples with 3 demonstrations: 25566
+Number of examples with 4 demonstrations: 13386
+Number of examples with 5 demonstrations: 2756
+TOTAL Number of examples: 77367
+----
+Fold 5
+Split: train
+Number of examples with 0 demonstrations: 1460
+Number of examples with 1 demonstrations: 3999
+Number of examples with 2 demonstrations: 5283
+Number of examples with 3 demonstrations: 4180
+Number of examples with 4 demonstrations: 1884
+Number of examples with 5 demonstrations: 369
+TOTAL Number of examples: 17175
+----
+Split: val
+Number of examples with 0 demonstrations: 183
+Number of examples with 1 demonstrations: 682
+Number of examples with 2 demonstrations: 878
+Number of examples with 3 demonstrations: 474
+Number of examples with 4 demonstrations: 87
+Number of examples with 5 demonstrations: 0
+TOTAL Number of examples: 2304
+----
+Split: test
+Number of examples with 0 demonstrations: 1864
+Number of examples with 1 demonstrations: 12720
+Number of examples with 2 demonstrations: 28407
+Number of examples with 3 demonstrations: 29714
+Number of examples with 4 demonstrations: 15130
+Number of examples with 5 demonstrations: 3038
+TOTAL Number of examples: 90873
+----
+Fold 6
+Split: train
+Number of examples with 0 demonstrations: 1520
+Number of examples with 1 demonstrations: 3789
+Number of examples with 2 demonstrations: 4650
+Number of examples with 3 demonstrations: 3313
+Number of examples with 4 demonstrations: 1292
+Number of examples with 5 demonstrations: 221
+TOTAL Number of examples: 14785
+----
+Split: val
+Number of examples with 0 demonstrations: 180
+Number of examples with 1 demonstrations: 955
+Number of examples with 2 demonstrations: 1559
+Number of examples with 3 demonstrations: 1248
+Number of examples with 4 demonstrations: 506
+Number of examples with 5 demonstrations: 81
+TOTAL Number of examples: 4529
+----
+Split: test
+Number of examples with 0 demonstrations: 1807
+Number of examples with 1 demonstrations: 12657
+Number of examples with 2 demonstrations: 28359
+Number of examples with 3 demonstrations: 29807
+Number of examples with 4 demonstrations: 15303
+Number of examples with 5 demonstrations: 3105
+TOTAL Number of examples: 91038
+----
+Fold 7
+Split: train
+Number of examples with 0 demonstrations: 1435
+Number of examples with 1 demonstrations: 3815
+Number of examples with 2 demonstrations: 4696
+Number of examples with 3 demonstrations: 3135
+Number of examples with 4 demonstrations: 1093
+Number of examples with 5 demonstrations: 161
+TOTAL Number of examples: 14335
+----
+Split: val
+Number of examples with 0 demonstrations: 135
+Number of examples with 1 demonstrations: 512
+Number of examples with 2 demonstrations: 607
+Number of examples with 3 demonstrations: 306
+Number of examples with 4 demonstrations: 55
+Number of examples with 5 demonstrations: 0
+TOTAL Number of examples: 1615
+----
+Split: test
+Number of examples with 0 demonstrations: 1937
+Number of examples with 1 demonstrations: 13074
+Number of examples with 2 demonstrations: 29265
+Number of examples with 3 demonstrations: 30927
+Number of examples with 4 demonstrations: 15953
+Number of examples with 5 demonstrations: 3246
+TOTAL Number of examples: 94402
+----
+Fold 8
+Split: train
+Number of examples with 0 demonstrations: 1470
+Number of examples with 1 demonstrations: 3622
+Number of examples with 2 demonstrations: 4285
+Number of examples with 3 demonstrations: 2937
+Number of examples with 4 demonstrations: 1121
+Number of examples with 5 demonstrations: 189
+TOTAL Number of examples: 13624
+----
+Split: val
+Number of examples with 0 demonstrations: 170
+Number of examples with 1 demonstrations: 637
+Number of examples with 2 demonstrations: 725
+Number of examples with 3 demonstrations: 370
+Number of examples with 4 demonstrations: 70
+Number of examples with 5 demonstrations: 0
+TOTAL Number of examples: 1972
+----
+Split: test
+Number of examples with 0 demonstrations: 1867
+Number of examples with 1 demonstrations: 13142
+Number of examples with 2 demonstrations: 29558
+Number of examples with 3 demonstrations: 31061
+Number of examples with 4 demonstrations: 15910
+Number of examples with 5 demonstrations: 3218
+TOTAL Number of examples: 94756
+----
+Fold 9
+Split: train
+Number of examples with 0 demonstrations: 1451
+Number of examples with 1 demonstrations: 3981
+Number of examples with 2 demonstrations: 5092
+Number of examples with 3 demonstrations: 3599
+Number of examples with 4 demonstrations: 1354
+Number of examples with 5 demonstrations: 214
+TOTAL Number of examples: 15691
+----
+Split: val
+Number of examples with 0 demonstrations: 203
+Number of examples with 1 demonstrations: 706
+Number of examples with 2 demonstrations: 730
+Number of examples with 3 demonstrations: 322
+Number of examples with 4 demonstrations: 55
+Number of examples with 5 demonstrations: 0
+TOTAL Number of examples: 2016
+----
+Split: test
+Number of examples with 0 demonstrations: 1853
+Number of examples with 1 demonstrations: 12714
+Number of examples with 2 demonstrations: 28746
+Number of examples with 3 demonstrations: 30447
+Number of examples with 4 demonstrations: 15692
+Number of examples with 5 demonstrations: 3193
+TOTAL Number of examples: 92645
+----
+Done
