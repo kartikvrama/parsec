@@ -1,7 +1,6 @@
-# PARSEC: **P**reference **A**daptation for Object **R**earrangement from **S**cen**E** **C**ontext
+# Personalized Robotic Object Rearrangement from Scene Context
 
-This is the official repository for the paper titled "PARSEC: Preference Adaptation for Robotic Object Rearrangement from
-Scene Context", currently under review at ROMAN 2025. The repo contains code for generating PARSEC evaluation examples from crowdsourced user data, implementations of existing personalized object rearrangement works, implementation our proposed approach ContextSortLM, and various scripts to evaluate and visualize model predictions.
+This is the official repository for the paper titled "Personalized Robotic Object Rearrangement from Scene Context", accepted at ROMAN 2025. The repo contains code for generating PARSEC evaluation examples from crowdsourced user data, implementations of existing personalized object rearrangement works, implementation our proposed approach ContextSortLM, and various scripts to evaluate and visualize model predictions.
 
 [Installation.md](./docs/installation.md) contains instructions on installing dependencies.
 
@@ -38,5 +37,4 @@ The script will generate the following plots:
 - **Error Metrics**: This plot shows the SED (Scene Edit Distance) and IGO (Number of Incorrectly Grouped Objects) of each model as a function of the number of pre-arranged objects in the initial environment state.
 
 ### Online Rater Evaluation
-
-Coming soon!
+The code for collecting user arrangement data and evaluating model predictions with online raters is available at [parsec-dataset-and-evaluation repository](https://github.com/kartikvrama/parsec-dataset-and-evaluation).

@@ -46,4 +46,4 @@ python save_fold_pkl.py \
 ``` 
 
 ## Visualizing Evaluation Examples
-Coming soon!
+To visualize the evaluation examples, you can use the `view_predictions.ipynb` notebook. This notebook loads model outputs, shows individual rules and placement prompts, and provides text visualizations for the initial and predicted object arrangements. It also reports relevant statistics such as edit distance and incorrectly grouped objects.
