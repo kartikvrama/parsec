@@ -1,6 +1,6 @@
 # Personalized Robotic Object Rearrangement from Scene Context
 
-This is the official repository for the paper titled "Personalized Robotic Object Rearrangement from Scene Context", accepted at ROMAN 2025 ([arxiv](https://github.com/kartikvrama/parsec-dataset-and-evaluation/tree/main/data_collection_fullstack](https://arxiv.org/abs/2505.11108))). The repo contains code for generating PARSEC evaluation examples from crowdsourced user data, implementations of existing personalized object rearrangement works, implementation our proposed approach ContextSortLM, and various scripts to evaluate and visualize model predictions.
+This is the official repository for the paper titled "Personalized Robotic Object Rearrangement from Scene Context", accepted at ROMAN 2025 ([arxiv](https://arxiv.org/abs/2505.11108)). The repo contains code for generating PARSEC evaluation examples from crowdsourced user data, implementations of existing personalized object rearrangement works, implementation our proposed approach ContextSortLM, and various scripts to evaluate and visualize model predictions.
 
 [Installation.md](./docs/installation.md) contains instructions on installing dependencies.
 
